@@ -122,6 +122,26 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 99. | El Alcalde Mayor Antonio Nieto de Figueroa, otorga poder a Juan Cervantes, para que haga unas diligencias, ya que él no puede hacerlas, porque se encuentra en visita de minas. Documento deteriorado e incompleto. | 1 octubre 1655  | 1      |
 | 100. | Proceso contra Pedro Negro, esclavo de Antonio de Cárcamo, por haber matado a Baltazar, indio de Yesguare. Documento incompleto. | 5 febrero 1656  | 10     |
 | 101. | Denuncio de una mina que hizo Bartolomé González. Documento en completo.                                             | 12 marzo 1656   | 20     |
+Aquí está la continuación y finalización de la transcripción de las 6 imágenes, organizada por número de expediente:
+| 102. | Causa criminal a pedimento de Antonio Sotelo, Tesorero de las Santas Cruzadas. Documento deteriorado e incompleto.   | 6 abril 1656     | 13     |
+| 103. | Proceso contra Alberto Martín, por unas heridas que dio a Pablo de Silva, y a Luisa de Villalobos. Documento deteriorado e incompleto. | 24 abril 1656   | 5      |
+| 104. | Causa criminal contra Andrés, indio, por unas heridas que dio a un mestizo llamado Simón de Velasco, en Río Hondo. Documento incompleto y deteriorado. | 10 septiembre 1656 | 15  |
+| 105. | Querella de Juan Ortiz, contra Mauricio Fernández, por heridas que le dio. Documento incompleto y deteriorado.       | 30 noviembre 1656 | 3      |
+| 106. | Autos de remate de unos diezmos, a favor del sargento Lorenzo López, en 45 tostones del año de 1656, en jurisdicción de Santa Bárbara. Documento deteriorado e incompleto. | 12 enero 1657  | 4      |
+| 107. | Diligencias practicadas sobre finanzas de Ducados de Castilla, que dio el Oficial Real Francisco Pereda de Ugarte. Documento incompleto y deteriorado. | 24 febrero 1657 | 65     |
+| 108. | Proceso contra Sebastián Fernández de la Vega, por prisión arbitraria y heridas contra Domingo López, indio. Documento deteriorado e incompleto. | 10 octubre 1657 | 12     |
+| 109. | Petición de Juan Briones, representante del Alférez Juan de Castilla, pidiendo título de tierras de un sitio de estancia, y dos sitios de caballerías, Guatemala. Documento deteriorado e incompleto. | 12 octubre 1657 | 1      |
+| 110. | Escrito por el cual Martín Muñoz, miembro, tutor y curador del menor José Pérez Raymundo, pidió revocatoria del auto, en que mandó consultar con asesor la resolución, que debía recaer en el pleito con Francisca de la Cerna. Documento deteriorado e incompleto. | 29 noviembre 1657 | 1     |
+| 111. | Visita de Obras de tinta de esta jurisdicción. Documento incompleto.                                                 | 30 octubre 1658  | 89     |
+| 112. | Fragmento de un libro de cuentas de la Real Caja. Documento incompleto.                                              | 3 noviembre 1658 | 10     |
+| 113. | Ejecución contra María de Morales, por ochocientos pesos valor de un censo, que debía al convento de San Francisco, y un pequeño resto de la Merced. Documento incompleto y deteriorado. | 8 agosto 1659 | 31     |
+| 114. | Autos de testamento e inventario, de los bienes que quedarán por fin y muerte de Máxima Lazo de la Vega, mujer de Antonio de Cárcamo de Real de Minas de Tegucigalpa. Documento incompleto y deteriorado. | 10 noviembre 1659 | 11    |
+| 115. | Autos criminales contra Francisco Quelme, mulato libre, de oficio de la Real Justicia, por unas heridas que dio en el campo, en términos de la estancia de Río Hondo, al mulato Juan Mejía. Documento incompleto y deteriorado. | 15 marzo 1660 | 20  |
+| 116. | Causa criminal contra Diego de Rivera y Lorenzo de Zepeda, cargadores de minas, Tegucigalpa. Documento incompleto y deteriorado. | 24 marzo 1660   | 9      |
+| 117. | Escritura de venta de un terreno, situado en los términos del pueblo de Gualala, y rematado de diezmos con Santa Bárbara. Documento deteriorado e incompleto. | 26 mayo 1660    | 3      |
+| 118. | Autos hechos a pedimento del teniente Alonso Díaz de Moisés, contra Luis Galván y Sebastián de Olivas sobre una deuda. Documento incompleto. | 20 agosto 1661  | 7      |
+| 119. | Real providencia amparando al Alcalde de la Santa Hermandad, de la Villa de Jérez de Choluteca, Juan de Espinal y Moncada, se refiere a una causa criminal, contra Tomás Flores, por muerte dada a Felipe de Ávila, Guatemala. Documento incompleto. | 1 septiembre 1661 | 6   |
+| 120. | Real Cédula, en la que se manda al Alcalde Mayor de las minas de Honduras, sobre los trescientos ochenta y ocho tostones y dos pesos, que no fueron despachados, Guatemala. Documento incompleto y deteriorado. | 12 diciembre 1661 | 6   |
 
 ---
 
