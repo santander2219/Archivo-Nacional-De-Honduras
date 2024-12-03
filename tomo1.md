@@ -122,7 +122,6 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 99. | El Alcalde Mayor Antonio Nieto de Figueroa, otorga poder a Juan Cervantes, para que haga unas diligencias, ya que él no puede hacerlas, porque se encuentra en visita de minas. Documento deteriorado e incompleto. | 1 octubre 1655  | 1      |
 | 100. | Proceso contra Pedro Negro, esclavo de Antonio de Cárcamo, por haber matado a Baltazar, indio de Yesguare. Documento incompleto. | 5 febrero 1656  | 10     |
 | 101. | Denuncio de una mina que hizo Bartolomé González. Documento en completo.                                             | 12 marzo 1656   | 20     |
-Aquí está la continuación y finalización de la transcripción de las 6 imágenes, organizada por número de expediente:
 | 102. | Causa criminal a pedimento de Antonio Sotelo, Tesorero de las Santas Cruzadas. Documento deteriorado e incompleto.   | 6 abril 1656     | 13     |
 | 103. | Proceso contra Alberto Martín, por unas heridas que dio a Pablo de Silva, y a Luisa de Villalobos. Documento deteriorado e incompleto. | 24 abril 1656   | 5      |
 | 104. | Causa criminal contra Andrés, indio, por unas heridas que dio a un mestizo llamado Simón de Velasco, en Río Hondo. Documento incompleto y deteriorado. | 10 septiembre 1656 | 15  |
