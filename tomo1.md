@@ -205,11 +205,15 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 179. | Pedro Ortiz de Funes, pide al Alcalde Mayor, como tutor y curador de sus hermanos, de los bienes que dejó su padre, se les descargue dicha tutoría, una cantidad para sufragar los gastos, de casamiento de los dichos sus hermanos. Tegucigalpa. Documento incompleto y deteriorado. | 8 junio 1669    | 1      |
 | 180. | Juan Zerón de Quiñónez, vende un esclavo llamado Antonio de diez y seis años de edad, a Alonso López de Villa de Moros. Documento deteriorado e incompleto. | 30 julio 1669   | 2      |
 | 181. | Información ad-perpetuam, sobre el mal estado de la hacienda de San Juan de Buena Vista, seguida a petición de Diego de Sayas Esquivel. Documento incompleto y deteriorado. | 23 septiembre 1670 | 5    |
-| 182. | Providencia dictada por el doctor Benito de Nova Salgado, Gobernador de la Capitanía General de Guatemala, para el expendio y distribución de papel sellado. Documento incompleto. | 20 noviembre 1670 | 2    |
+| 182. | **Visitas practicadas por los Alcaldes Mayores desde 1670 años hasta 1745, en los pueblos de Curaren y Alubaren.** Documento original. | 1670-1745  | 45 anexos |
 | 183. | Fragmento de un testimonio de la Cédula Real, por la cual se dictan órdenes referentes a los tenientes, en lo que se refiere a los jueces de milpas, Guatemala 29 de noviembre de 1670, Villa de Jérez de Choluteca. Documento incompleto. | 12 diciembre 1670 | 2    |
 | 184. | Autos hechos en virtud de mandamiento del Gobierno Superior, para los mineros beneficien metales para azogues. Documento deteriorado. | 25 diciembre 1670 | 1    |
-| 185. | Ejecución contra Francisco Cardoso, por cuatrocientos pesos siete reales, que adeudaba a Cristóbal Montoya. Documento deteriorado. | 30 marzo 1671  | 5      |
+| 185. | Ejecución contra Francisco Cardoso, por cuatrocientos pesos siete reales, que adeudaba a Cristóbal Montoya. Documento deteriorado. | 30 marzo 1671   | 5      |
 | 186. | Autos de diligencias hechas en razón de los bienes que tocan y pertenecen a Carlos Ferrufino, ausente en los Reinos del Perú. Documento deteriorado. | 7 abril 1671    | 31     |
+
+---
+
+Gracias por la observación. Si hay algo más que ajustar o verificar, por favor, avísame. 😊
 
 ---
 
