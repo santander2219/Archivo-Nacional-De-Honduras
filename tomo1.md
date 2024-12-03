@@ -25,7 +25,6 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 18.  | Carta de donación de un terreno en jurisdicción de la "Jigua", otorgada por José Bueso y hermanos, a favor del Presbítero José Ramos de Pineda, Gracias a Dios. Documento incompleto y deteriorado. | 12 julio 1638       | 2      |
 | 19.  | **Documentos agrupados (22 registros):**                                                                                                 |                   | 64     |
 |      | 1) Testamento de la esposa de Pedro Galeas, folios 3 y 4 vuelto.<br>2) Escritura de venta de una esclava a favor de Baltazar Betancourt.<br>3) Carta Poder.<br>4) Referente a los Jicaques de Tegucigalpa.<br>5) Carta de dote otorgada por Diego de Narváez a favor de su esposa.<br>6) Testamentaria, Antonio Domínguez.<br>7) Juicio de Residencia.<br>8) El Sargento Baltazar compra una esclava llamada Leonor.<br>9) Diego Duarte, vende una esclava negra llamada María.<br>10) Testamento de Petronila.<br>11) Domingo Carías solicita poder para probar cuestiones relativas a libros de cuentas.<br>12) María Núñez vende una esclava llamada Chon, a Ferrufino, por cuatrocientos treinta tostones, ante el teniente de Alcalde Mayor de la Provincia de Tegucigalpa, Juan Rodríguez de Castro.<br>13) Arrendamiento de casas.<br>14) Lope Rodríguez confiere carta poder a su hijo Antonio Rodríguez.<br>15) Úrsula de Zelaya vende a Rafael Rufino un ingenio de moler caña, sito en el sitio "Santísima Trinidad".<br>16) Venta de un esclavo negro a Juan Rodríguez de Castro.<br>17) Carta de libertad otorgada por Úrsula de Zelaya, a una esclava en Tegucigalpa.<br>18) Carta de Transacción, otorgada por Francisco Sánchez.<br>19) Carta de obligación otorgada por Antonio Falcón, a favor de Juan Rodríguez de Castro, como su fiador.<br>20) Carta escritura otorgada por Diego Narváez de Córdoba, a favor de Úrsula de Zelaya.<br>21) Carta poder otorgada por Antonio Franco de Cárcamo, a favor de Juan Pérez Segura, Tegucigalpa.<br>22) Carta poder otorgada por Agustina María de Santí Ponce, a favor de Antonio Falcón. Documentos incompletos y deteriorados. | Varias fechas      |        |
-Claro, aquí está la transcripción completa de los 11 registros agrupados en el número 20, tal como aparecen en las imágenes:
 | 20. | **Documentos agrupados (11 registros):**                                                                             |                  |        |
 |     | 1) Disposición de escritura del sitio "Las Chorreras", donado al Virrey, a favor de Lázaro de Mariz por Juan Bautista, otorgado por Diego Duarte, Tegucigalpa. | 10 diciembre 1638 |        |
 |     | 2) Carta de fianza de Antonio Rodríguez y Diego Duarte, a favor de Antonio Falcón.                                   | 7 noviembre 1638 |        |
@@ -59,7 +58,6 @@ Claro, aquí está la transcripción completa de los 11 registros agrupados en e
 | 38. | Alfonso Rodríguez Bravo, demanda a los representantes de Bernardina Quiñónez, por doscientos ochenta tostones. Documento incompleto. | 14 marzo 1647 | 3         |
 | 39. | Demanda de Pedro de Grandes contra Diego Velásquez, mulato libre, por cien tostones que le adeuda, por el alquiler de unas mulas, Tegucigalpa. Documento incompleto. | 1 abril 1647    | 5         |
 | 40. | Fragmento de una solicitud de testimonio de un testamento. Documento incompleto.                                      | 28 mayo 1647    | 1         |
-Aquí está la transcripción completa de las imágenes empezando desde el número 41:
 | 41. | Úrsula de Zelaya, se defiende contra Agustín Matute, por decir éste que Manuel Silva, su difunto marido, le debía una suma de dinero. Documento deteriorado. | 3 julio 1647     | 161    |
 | **Caja No. 3** |                                                                                                           |                  |        |
 | 42. | Diligencias seguidas sobre adeudar viva de la Cueva, a los bienes de Juan Rodríguez de Castro, difunto. Documento incompleto. | 8 julio 1647     | 6      |
@@ -101,6 +99,29 @@ Aquí está la transcripción completa de las imágenes empezando desde el núme
 | 77. | Causa criminal contra los indios, justicia del pueblo de Orica, por haber dado garrote a un indio forastero. Documento deteriorado e incompleto. | 7 julio 1751     | 22     |
 | 78. | Traslado de una petición de Cristóbal Gómez, sobre una plata que dio Blas Ferrera ensayador de metales, Tegucigalpa. Documento incompleto y deteriorado. | 27 septiembre 1651 | 3      |
 | 79. | Causa criminal de oficio contra un indio, una india del pueblo de Tepusenti, por decirse que eran brujos. Documento deteriorado e incompleto. | 3 febrero 1652   | 32     |
+| 80. | Autos criminales fulminados de oficio de la Real Justicia, contra Diego de Cáceres e Isabel Ortiz, por amancebamiento, y por haber quebrantado la prisión que se les dio. Documento incompleto y deteriorado. | 21 junio 1652   | 19     |
+| 81. | Diligencias del Alcalde Mayor Antonio Nieto de Figueroa, para la colectación del donativo que pidió el Rey Carlos II, el hechizado, para su casamiento. Documento deteriorado e incompleto. | 9 agosto 1652   | 4      |
+| 82. | Causa de demanda puesta por Cristóbal Gómez, indio de una mina, contra Blas Ferrer, minero. Documento incompleto.     | 28 agosto 1652  | 15     |
+| 83. | Testamento de María Callejas. Documento deteriorado e incompleto.                                                    | 1 septiembre 1652 | 6      |
+| 84. | Denuncia de una mina, hecho por Cristóbal Gómez, Tegucigalpa. Documento deteriorado e incompleto.                    | 2 septiembre 1652 | 2      |
+| 85. | Información dada por Rafael Ferrufino, en razón del estado de la mina de Guascaropo. Documento incompleto y deteriorado. | 24 septiembre 1652 | 4     |
+| 86. | Causa criminal de oficio de la Real Justicia, contra la india María Pérez, por haberle hecho "Mal" a su marido. Documento incompleto y deteriorado. | 9 noviembre 1652 | 18     |
+| 87. | Causa de oficio contra Bartolomé de Carranza, sobre una herida que dio a Pedro Sevilla. Documento deteriorado e incompleto. | 29 noviembre 1652 | 6     |
+| 88. | Causa fulminada de oficio de la Real Justicia, contra Diego de Paz, por haber dado unas heridas en el campo, al capitán Policarpio de Carranza y por otros delitos. Documento incompleto y deteriorado. | 13 enero 1653   | 18     |
+| 89. | Certificación de haber entregado Antonio Nieto de Figueroa, 624 tostones del donativo a favor de S.M. Guatemala. Documento deteriorado e incompleto. | 21 febrero 1653 | 2      |
+| 90. | Demanda entre Bartolomé González, y los indios de Tatumbal, por el sitio de "Asacualpa". Documento deteriorado e incompleto. | 21 febrero 1653 | 2      |
+| 91. | Fragmento de una causa criminal seguida contra un sujeto, por haber dado unas heridas al capitán Policarpio Carranza. Documento incompleto y deteriorado. | 24 marzo 1653   | 1      |
+| 92. | Fragmento de una información seguida para averiguar exactamente la muerte de un indio, el cual dicen que había quitado una mujer, a uno de los presuntos asesinos. Documento incompleto y deteriorado. | 5 septiembre 1653 | 2     |
+| 93. | Información para averiguar la muerte de un indio en el Zapotal, ejecutada por Marcos Viera. Documento incompleto y deteriorado. | 6 septiembre 1653 | 1     |
+| 94. | Causa criminal contra el Alcalde del pueblo de Texiguat, por haber azotado a una mujer que había hecho mal a un individuo. Documento deteriorado e incompleto. | 28 noviembre 1653 | 9     |
+| **Caja No. 5** |                                                                                                           |                  |        |
+| 95. | Codicilio que otorgó Alonso Pérez Raimundo, ante el Alcalde Mayor Antonio Nieto de Figueroa. Documento incompleto y deteriorado. | 27 mayo 1654    | 2      |
+| 96. | Pasaje de un testamento. No se puede determinar la fecha por deteriorado e incompleto.                                | 1654             | 1      |
+| 97. | Orden del Teniente de Capitán General Gabriel de Ugarte y Vargas, Juez de Residencias, mandando a Isidro de Rivera, del valle de Talanga a tomar las declaraciones de Juan López Pagán, Diego de Mendoza y Juan de Cáceres. Documento deteriorado e incompleto. | 2 febrero 1655   | 3      |
+| 98. | Visita hecha por el Alcalde Mayor Antonio Nieto de Figueroa, a la mina de Diego Méndez. Documento deteriorado e incompleto. | 30 agosto 1655  | 1      |
+| 99. | El Alcalde Mayor Antonio Nieto de Figueroa, otorga poder a Juan Cervantes, para que haga unas diligencias, ya que él no puede hacerlas, porque se encuentra en visita de minas. Documento deteriorado e incompleto. | 1 octubre 1655  | 1      |
+| 100. | Proceso contra Pedro Negro, esclavo de Antonio de Cárcamo, por haber matado a Baltazar, indio de Yesguare. Documento incompleto. | 5 febrero 1656  | 10     |
+| 101. | Denuncio de una mina que hizo Bartolomé González. Documento en completo.                                             | 12 marzo 1656   | 20     |
 
 ---
 
