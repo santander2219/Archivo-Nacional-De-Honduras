@@ -213,8 +213,4 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 
 ---
 
-Gracias por la observación. Si hay algo más que ajustar o verificar, por favor, avísame. 😊
-
----
-
 
