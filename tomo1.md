@@ -59,6 +59,48 @@ Claro, aquí está la transcripción completa de los 11 registros agrupados en e
 | 38. | Alfonso Rodríguez Bravo, demanda a los representantes de Bernardina Quiñónez, por doscientos ochenta tostones. Documento incompleto. | 14 marzo 1647 | 3         |
 | 39. | Demanda de Pedro de Grandes contra Diego Velásquez, mulato libre, por cien tostones que le adeuda, por el alquiler de unas mulas, Tegucigalpa. Documento incompleto. | 1 abril 1647    | 5         |
 | 40. | Fragmento de una solicitud de testimonio de un testamento. Documento incompleto.                                      | 28 mayo 1647    | 1         |
+Aquí está la transcripción completa de las imágenes empezando desde el número 41:
+| 41. | Úrsula de Zelaya, se defiende contra Agustín Matute, por decir éste que Manuel Silva, su difunto marido, le debía una suma de dinero. Documento deteriorado. | 3 julio 1647     | 161    |
+| **Caja No. 3** |                                                                                                           |                  |        |
+| 42. | Diligencias seguidas sobre adeudar viva de la Cueva, a los bienes de Juan Rodríguez de Castro, difunto. Documento incompleto. | 8 julio 1647     | 6      |
+| 43. | Información seguida a pedimento de Lucas Ferrufino, minero de Santa Lucía, sobre si la mina de Alonso Luque, en dicho mineral, era nuevo descubrimiento o no, Tegucigalpa. | 7 agosto 1647    | 8      |
+| 44. | Causa criminal contra Miguel Elías por amancebamiento. Documento deteriorado.                                         | 14 agosto 1647   | 3      |
+| 45. | Libro de registro de minas, Tegucigalpa. (22 diciembre 1645 y 1646). Documento incompleto.                            | 25 agosto 1647   | 341    |
+| 46. | Autos de las diligencias que se hicieron sobre el indio llamado Andrés Vásquez, que se desapareció en la mina de Antonio de Armijo. Documento incompleto. | 18 septiembre 1647 | 35   |
+| 47. | Causa criminal por hurtos, contra Francisco del Pozo. Documento deteriorado e incompleto.                             | 2 diciembre 1647 | 8      |
+| 48. | Causa criminal contra Juan Bautista Licona. Documento incompleto.                                                    | 29 febrero 1648  | 10     |
+| 49. | Causa criminal seguida contra Nicolás López, indio, por el delito de incendiario en el pueblo de Aramecina. Documento deteriorado. | 3 marzo 1648     | 4      |
+| 50. | Causa criminal contra Alonso Núñez de Vargas, por amancebamiento. Documento incompleto.                               | 4 marzo 1648     | 3      |
+| 51. | Causa criminal contra Andrés Gómez, por haber dado muerte a Benjamín López. Documento deteriorado.                    | 19 marzo 1648    | 6      |
+| 52. | Autos criminales de oficio, sobre averiguar quién trocaba pedazos de estaño diciendo eran de plata, Tegucigalpa. Documento incompleto. | 18 abril 1648    | 3      |
+| 53. | Registro de una mina de estacas de la nombrada "San Luis", que es de Alonso de Luque, y denunciada por despoblada conforme a las reales ordenanzas, Tegucigalpa. Documento incompleto. | 16 agosto 1648   | 20     |
+| 54. | Pasajes incompletos de una causa contra Lucas de Ferrufino, Tegucigalpa. Documento deteriorado.                       | 29 agosto 1648   | 2      |
+| 55. | Pasaje de una litis de la mina nombrada "San Luis" entre Pablo Silva, y el Alcalde Mayor Antonio Nieto, Tegucigalpa. Documento incompleto y deteriorado. | 1 septiembre 1648 | 1      |
+| 56. | Causa criminal contra Antonio Alberto, de nacionalidad extranjera, por una herida que dio a un indio. Documento incompleto y deteriorado. | 28 septiembre 1648 | 34    |
+| 57. | Causa criminal contra Catalina Hernández, india del pueblo de Orica, por haber ahorcado a un hijo de ella.            | 30 septiembre 1648 | 2     |
+| 58. | Causa criminal contra Alejo Girón por rapto. Documento deteriorado e incompleto.                                      | 9 febrero 1649   | 3      |
+| 59. | Causa seguida sobre averiguar quién mató al indio Blas de Texí, que hallaron muerto en la montaña de Samaiota.        | 20 febrero 1649  | 39     |
+| 60. | Pleito de la mina de plata, nombrada "La Mololoa", en el mineral de Santa Lucía, entre Melchor García y Lucas Ferrufino, Tegucigalpa. | 3 marzo 1649     | 18     |
+| 61. | Inventario de los bienes de Lope Rodríguez, Tegucigalpa. Documento incompleto.                                        | 9 marzo 1649     | 6      |
+| 62. | Ejecución trabada contra Gabriel Pérez de Irías, por dos mil cuatrocientos cuarenta tostones, que debía a Juan de Espinoza y Pedro Sa. | 12 abril 1649    | 33     |
+| 63. | Causa criminal contra Miguel de Salinas, por heridas que dio a Diego López.                                           | 12 mayo 1649     | 20     |
+| 64. | Proceso contra los indios Pedro Bautista, Alcalde de Tegucigalpa, Julio Carbón y Diego Casas Regidores, por haberse amotinado contra el Alcalde Mayor Antonio Nieto de Figueroa, a causa de haber vendido éste un solar a un español. Documento incompleto. | 15 mayo 1649    | 43     |
+| **Caja No. 4** |                                                                                                           |                  |        |
+| 65. | Causa de denuncia hecha por Bernardo Cedeño, a la mina nombrada "San Juan Bautista", que es de Alonso de Luque, Tegucigalpa. Documento incompleto. | 27 julio 1649    | 4      |
+| 66. | Causa seguida contra unos indios de Guasiporo, por haber cometido el pecado nefando, Tegucigalpa. Documento incompleto y deteriorado. | 4 septiembre 1649 | 2      |
+| 67. | Testimonio de autos sobre los bienes de Alonso de Figueroa, de Nueva España, recogidos por el Juzgado de Intestados. Documento incompleto y deteriorado. | 11 octubre 1649 | 36     |
+| 68. | Copia de un auto del Supremo Gobierno, se refiere a una petición del traslado de los quintos reales de Comayagua, a Tegucigalpa. Documento incompleto y deteriorado. | 23 mayo 1650     | 1      |
+| 69. | Testamento de Magdalena Núñez. Documento incompleto y deteriorado.                                                   | 19 junio 1650    | 5      |
+| 70. | Dos copias Real Cédula, en la que se anuncia el casamiento del Rey con doña Mariana. Documento incompleto y deteriorado. | 15 julio 1650    | 1      |
+| 71. | Fragmento referente a los bienes de un sujeto. Documento incompleto.                                                 | 1650             | 1      |
+| 72. | Pasaje de un interrogatorio sobre robo de ganado. Documento incompleto.                                              | 28 enero 1651    | 2      |
+| 73. | La cancillería Real de Guatemala hace saber un asunto a la Provincia de Nicaragua. Documento incompleto y deteriorado. | 28 enero 1651    | 2      |
+| 74. | Auto final de la publicación de un pregón. Documento incompleto y deteriorado.                                        | Febrero 1651     | 1      |
+| 75. | Pleito de Martín de Bustillo, contra Agustina viuda de Antonio Galón, Tegucigalpa. Documento incompleto y deteriorado. | 9 junio 1651     | 2      |
+| 76. | Fragmento del testamento de María Álvarez, vecina de Salalica, y diligencias que siguió el Alcalde Mayor Antonio Nieto de Figueroa, para darle validez. Documento incompleto y deteriorado. | 19 junio 1651    | 3      |
+| 77. | Causa criminal contra los indios, justicia del pueblo de Orica, por haber dado garrote a un indio forastero. Documento deteriorado e incompleto. | 7 julio 1751     | 22     |
+| 78. | Traslado de una petición de Cristóbal Gómez, sobre una plata que dio Blas Ferrera ensayador de metales, Tegucigalpa. Documento incompleto y deteriorado. | 27 septiembre 1651 | 3      |
+| 79. | Causa criminal de oficio contra un indio, una india del pueblo de Tepusenti, por decirse que eran brujos. Documento deteriorado e incompleto. | 3 febrero 1652   | 32     |
 
 ---
 
