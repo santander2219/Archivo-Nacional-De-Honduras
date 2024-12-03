@@ -38,7 +38,27 @@ Claro, aquí está la transcripción completa de los 11 registros agrupados en e
 |     | 9) Carta poder otorgada por Antonio Rodríguez a Diego Duarte, sobre la administración de propiedades.               | 7 noviembre 1638 |        |
 |     | 10) Declaración de bienes de Francisco López, bajo supervisión del escribano.                                       | 7 noviembre 1638 |        |
 |     | 11) Orden de inspección para terrenos asignados a la Catedral de Comayagua.                                         | 7 noviembre 1638 |        |
-
+| 21. | Pasaje del título de tierra del sitio nombrado: "San José de Buena Vista", a favor de Juan de Villanueva, Lempira, La Jigua. Documento incompleto. | 17 agosto 1638  | 5         |
+| 22. | Pasajes de un poder otorgado a favor de Antonio Falcón, Tegucigalpa. Documento deteriorado e incompleto.              | 28 octubre 1638 | 1         |
+| 23. | Fragmento de una obligación a pagar una cuenta, Tegucigalpa. Documento deteriorado e incompleto.                      | 28 diciembre 1638 | 1        |
+| 24. | Fragmentos de una escritura de la venta de un esclavo, en 400 tostones, hecha por Benito Montiel, a favor de Bartolomé de Escoto, Tegucigalpa. Documento deteriorado e incompleto. | 29 diciembre 1638 | 1        |
+| 25. | Fragmento de una carta poder, no se pudo determinar lugar y fecha por estar incompleto el documento.                  |                  | 1         |
+| 26. | Fragmento de un poder hecho en Tegucigalpa. Documento deteriorado e incompleto.                                       | 6 enero 1639     | 1         |
+| 27. | Pasaje de un documento privado, otorgado por los señores Antonio Becerra y Franco de Zúñiga, a favor de Franco Sánchez y Franco Grandez, Tegucigalpa. Documento deteriorado e incompleto. | 14 octubre 1639 | 3         |
+| 28. | El Capitán Miguel de Vilches y Cabrera pidió al Alcalde Mayor de Tegucigalpa, que quitase unas bestias mulares y caballeras a unos individuos, porque eran de su propiedad, y de la de sus hermanos, y se las había hurtado Santiago Pastrana. Documento incompleto. | 4 septiembre 1640 | 2        |
+| 29. | Testamento y codicilio de Juan de Castro, expedientes de los incidentes del inventario de los bienes del mismo Castro. Tiene parte del testamento de Pedro Crespo Juárez. Documento deteriorado. | 1 enero 1643    | 154-155   |
+| 30. | Mandamiento para hacer una cárcel pública en Tegucigalpa, y lista de contribuyentes entre los vecinos, detallada por el Alcalde Mayor. | 15 febrero 1644 | 5         |
+| 31. | Fragmento de una demanda que Feliciano Herrera y Cristóbal de Alvarado, pusieron al Capitán Miguel de Servellón. Documento incompleto. | 13 octubre 1644 | 2         |
+| 32. | Visita hecha por el Alcalde Mayor Diego de Arroyave, hecha a los pueblos de estas provincias de Tegucigalpa.           | 4 noviembre 1644 | 50        |
+| **Caja No. 2** |                                                                                                           |                  |           |
+| 33. | Demanda que Juan Bautista de Liconá puso a Melchora de Cáceres y Andrés de Estrada, por deuda de veinte pesos.         | 3 marzo 1646    | 12-13     |
+| 34. | Exequias por la muerte de la Reina Madre.                                                                            | 22 junio 1646   | 60        |
+| 35. | Antonio Sante, vecino de la Alcaldía Mayor de Tegucigalpa, pide que Gregorio Vásquez le pague cinco bestias que le estravió de setenta y dos que estaban a su cuidado. Documento incompleto. | 8 agosto 1646   | 2         |
+| 36. | Remate de los diezmos del Obispado de la Provincia de Honduras. Documento incompleto.                                 | 14 enero 1647   | 6         |
+| 37. | Causa ejecutiva contra los bienes del finado José Marín Roca a pedimento de acreedores. Documento incompleto.         | 20 febrero 1647 | 21        |
+| 38. | Alfonso Rodríguez Bravo, demanda a los representantes de Bernardina Quiñónez, por doscientos ochenta tostones. Documento incompleto. | 14 marzo 1647 | 3         |
+| 39. | Demanda de Pedro de Grandes contra Diego Velásquez, mulato libre, por cien tostones que le adeuda, por el alquiler de unas mulas, Tegucigalpa. Documento incompleto. | 1 abril 1647    | 5         |
+| 40. | Fragmento de una solicitud de testimonio de un testamento. Documento incompleto.                                      | 28 mayo 1647    | 1         |
 
 ---
 
