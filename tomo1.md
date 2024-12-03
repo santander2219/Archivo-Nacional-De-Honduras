@@ -175,6 +175,41 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 151. | Providencia contra Ana Lázaro y Franca Lobato, por amancebamiento con Pedro Gómez. Documento incompleto y deteriorado. | 2 junio 1665     | 1      |
 | 152. | Providencia mandando seguir una información, para averiguar si el Presbítero Licenciado Agustín de Marquina, estaba a su entero juicio cuando testó. Documento incompleto y deteriorado. | 10 julio 1665    | 1      |
 | 153. | Demanda que sigue Pedro Santa María, mulato esclavo del capitán Luis Ochoa de la Torre, difunto, sobre que se le otorgue libertad, en virtud del precio en que fue vendido. | 21 julio 1665    | 26     |
+| 154. | Diligencias por las cuales Felipe Núñez, marido y conjunta persona de Bernardina de Ochoa, pidió la herencia que le dejó a su cónyuge, el capitán Luis Ochoa de la Torre. Documento incompleto. | 27 julio 1665    | 33     |
+| 155. | Diligencia de la causa seguida contra Antonio García de Posadas, por sustraer tres mulas de silla, de la hacienda de Agalta, de Luis Ochoa de la Torre, Tegucigalpa. Documento deteriorado e incompleto. | 1 agosto 1665    | 1      |
+| 156. | Providencia de destierro para Juan de Albir (español) por cuatro años, por inquietar a una mujer casada. Documento deteriorado e incompleto. | 8 agosto 1665    | 2      |
+| 157. | Remisión de fuerzas para la defensa de Nicaragua y Comayagua. Documento deteriorado.                                  | 13 agosto 1665   | 2      |
+| **Caja No. 7** |                                                                                                           |                  |        |
+| 158. | Mortual del capitán Luis Ochoa de la Torre. Documento deteriorado.                                                   | 5 septiembre 1665 | 344    |
+| **Caja No. 8** |                                                                                                           |                  |        |
+| 159. | Causa de Oficio contra el Alcalde (Provisional) Antonio Domínguez Lozano, por cargos de residencia. Documento deteriorado. | 5 octubre 1665   | 8      |
+| 160. | Cristóbal López, mulato libre en su nombre y en el de sus hermanos, denunció una mina de plata que descubrieron en el Valle de San Antonio. Documento incompleto. | 22 octubre 1665  | 2      |
+| 161. | Nombramiento de Teniente General a Eugenio Lobo, mientras dura la ausencia del titular Gabriel de Ugarte, Alcalde Mayor de Tegucigalpa. | 22 marzo 1666   | 2      |
+| 162. | Proceso contra un indio llamado Nicolás, de Comayagüela, por heridas que dio a Pedro Bautista, Alcalde en el momento de su captura, Tegucigalpa. Documento incompleto y deteriorado. | 22 mayo 1666    | 5      |
+| 163. | Autos ejecutivos contra el capitán Juan López, por un alcance que tuvo como vendedor de papel sellado. Documento incompleto. | 26 mayo 1666    | 1      |
+| 164. | Fragmento de una Providencia librada, por el tesorero Eugenio Lobo, contra los expendedores de especies fiscales. Documento incompleto. | 28 junio 1666   | 2      |
+| 165. | La Reina Mariana de Austria manda que sus vasallos se pongan luto, por la muerte del Rey Felipe IV. Documento incompleto. | 2 agosto 1666   | 1      |
+| 166. | Demanda de Juan Cáceres a Juan Gómez Fagón, por un pedazo de terreno. Documento incompleto.                           | 28 agosto 1666   | 1      |
+| 167. | Requisitorio citando los querellantes, que demandaron a Antonio Nieto de Figueroa, sobre los agravios que recibieron, siendo Alcalde Mayor de esta Provincia y Juez el señor Alcalde Mayor Gabriel Ugarte Ayala y Vargas. Documento deteriorado e incompleto. | 14 septiembre 1666 | 2  |
+| 168. | Acusación criminal que Antonio de Araujo puso a Antonio de Villafranca, por haberle herido a su hijo José de Araujo. Documento incompleto y deteriorado. | 17 octubre 1666 | 1      |
+| 169. | Litigio de una mina en el cerro "San Salvador", entre Antonio Coello y el capitán Antonio de Arauz, Tegucigalpa. Documento incompleto. | 3 noviembre 1666 | 2  |
+| 170. | Orden del Teniente de capitán general y alcalde mayor Gabriel de Ugarte Ayala y Vargas, expulsando a Antonio Jacinto del Castillo, y sus hijos Franco y Felipe, para que salgan de esta jurisdicción, y real de minas por vagos. Documento incompleto y deteriorado. | 10 noviembre 1666 | 1  |
+| 171. | Mortual del Sargento Mayor Francisco de Grandes. Documento deteriorado e incompleto.                                  | 26 enero 1667    | 24     |
+| 172. | Testamento de Juan de Obregón. Documento incompleto y deteriorado.                                                   | 12 febrero 1667  | 54     |
+| 173. | Escrito por el cual Fray Pedro de Ansurez, pide testimonios de los testamentos, de los señores Ilustrísimo señor Obispo de Comayagua, Juan Merlo de la Fuente y su hermano Franco Merlo, por interesar al convento, el hospital del señor Juan de Dios de aquella ciudad. Documento incompleto y deteriorado. | 7 noviembre 1667 | 1 |
+| 174. | Determinación de la Real Audiencia, de absolver la demanda puesta por Luis de Rivera, contra José de Matamoros. Documento incompleto y deteriorado. | 1667            | 1      |
+| 175. | Pasaje de una información, para averiguar la causa y motivo de la muerte de la sobrina de Gaspar Ventura, llamada Josefa, que apareció ahorcada. Tegucigalpa. Documento incompleto. | 25 agosto 1668  | 1      |
+| 176. | Pasaje final de la venta de un solar, aparece un recibo. Documento incompleto.                                        | 7 octubre 1668   | 1      |
+| 177. | José de Araujo y Antonio de Moncada, piden el registro de una mina que descubrieron. Documento incompleto.            | 1668            | 1      |
+| 178. | Luis Fernández de Córdova, pide un solar para edificar una casa, en real de minas de Tegucigalpa. Documento incompleto y deteriorado. | 1 marzo 1669    | 3      |
+| 179. | Pedro Ortiz de Funes, pide al Alcalde Mayor, como tutor y curador de sus hermanos, de los bienes que dejó su padre, se les descargue dicha tutoría, una cantidad para sufragar los gastos, de casamiento de los dichos sus hermanos. Tegucigalpa. Documento incompleto y deteriorado. | 8 junio 1669    | 1      |
+| 180. | Juan Zerón de Quiñónez, vende un esclavo llamado Antonio de diez y seis años de edad, a Alonso López de Villa de Moros. Documento deteriorado e incompleto. | 30 julio 1669   | 2      |
+| 181. | Información ad-perpetuam, sobre el mal estado de la hacienda de San Juan de Buena Vista, seguida a petición de Diego de Sayas Esquivel. Documento incompleto y deteriorado. | 23 septiembre 1670 | 5    |
+| 182. | Providencia dictada por el doctor Benito de Nova Salgado, Gobernador de la Capitanía General de Guatemala, para el expendio y distribución de papel sellado. Documento incompleto. | 20 noviembre 1670 | 2    |
+| 183. | Fragmento de un testimonio de la Cédula Real, por la cual se dictan órdenes referentes a los tenientes, en lo que se refiere a los jueces de milpas, Guatemala 29 de noviembre de 1670, Villa de Jérez de Choluteca. Documento incompleto. | 12 diciembre 1670 | 2    |
+| 184. | Autos hechos en virtud de mandamiento del Gobierno Superior, para los mineros beneficien metales para azogues. Documento deteriorado. | 25 diciembre 1670 | 1    |
+| 185. | Ejecución contra Francisco Cardoso, por cuatrocientos pesos siete reales, que adeudaba a Cristóbal Montoya. Documento deteriorado. | 30 marzo 1671  | 5      |
+| 186. | Autos de diligencias hechas en razón de los bienes que tocan y pertenecen a Carlos Ferrufino, ausente en los Reinos del Perú. Documento deteriorado. | 7 abril 1671    | 31     |
 
 ---
 
