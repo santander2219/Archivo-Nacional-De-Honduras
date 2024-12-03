@@ -25,7 +25,21 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 18.  | Carta de donación de un terreno en jurisdicción de la "Jigua", otorgada por José Bueso y hermanos, a favor del Presbítero José Ramos de Pineda, Gracias a Dios. Documento incompleto y deteriorado. | 12 julio 1638       | 2      |
 | 19.  | **Documentos agrupados (22 registros):**                                                                                                 |                   | 64     |
 |      | 1) Testamento de la esposa de Pedro Galeas, folios 3 y 4 vuelto.<br>2) Escritura de venta de una esclava a favor de Baltazar Betancourt.<br>3) Carta Poder.<br>4) Referente a los Jicaques de Tegucigalpa.<br>5) Carta de dote otorgada por Diego de Narváez a favor de su esposa.<br>6) Testamentaria, Antonio Domínguez.<br>7) Juicio de Residencia.<br>8) El Sargento Baltazar compra una esclava llamada Leonor.<br>9) Diego Duarte, vende una esclava negra llamada María.<br>10) Testamento de Petronila.<br>11) Domingo Carías solicita poder para probar cuestiones relativas a libros de cuentas.<br>12) María Núñez vende una esclava llamada Chon, a Ferrufino, por cuatrocientos treinta tostones, ante el teniente de Alcalde Mayor de la Provincia de Tegucigalpa, Juan Rodríguez de Castro.<br>13) Arrendamiento de casas.<br>14) Lope Rodríguez confiere carta poder a su hijo Antonio Rodríguez.<br>15) Úrsula de Zelaya vende a Rafael Rufino un ingenio de moler caña, sito en el sitio "Santísima Trinidad".<br>16) Venta de un esclavo negro a Juan Rodríguez de Castro.<br>17) Carta de libertad otorgada por Úrsula de Zelaya, a una esclava en Tegucigalpa.<br>18) Carta de Transacción, otorgada por Francisco Sánchez.<br>19) Carta de obligación otorgada por Antonio Falcón, a favor de Juan Rodríguez de Castro, como su fiador.<br>20) Carta escritura otorgada por Diego Narváez de Córdoba, a favor de Úrsula de Zelaya.<br>21) Carta poder otorgada por Antonio Franco de Cárcamo, a favor de Juan Pérez Segura, Tegucigalpa.<br>22) Carta poder otorgada por Agustina María de Santí Ponce, a favor de Antonio Falcón. Documentos incompletos y deteriorados. | Varias fechas      |        |
+Claro, aquí está la transcripción completa de los 11 registros agrupados en el número 20, tal como aparecen en las imágenes:
+| 20. | **Documentos agrupados (11 registros):**                                                                             |                  |        |
+|     | 1) Disposición de escritura del sitio "Las Chorreras", donado al Virrey, a favor de Lázaro de Mariz por Juan Bautista, otorgado por Diego Duarte, Tegucigalpa. | 10 diciembre 1638 |        |
+|     | 2) Carta de fianza de Antonio Rodríguez y Diego Duarte, a favor de Antonio Falcón.                                   | 7 noviembre 1638 |        |
+|     | 3) Testimonio por despacho, a favor de Juan de Reyes, mencionado en el acta de donación del sitio "Las Pampas".      | 3 noviembre 1638 |        |
+|     | 4) Certificado de propiedad, otorgado por el escribano Alonso Idáquez, Tegucigalpa, para Manuel de Ramos.            | 5 noviembre 1638 |        |
+|     | 5) Licencia pública de matrimonio para Leonor Beatriz Espinosa.                                                     | 7 noviembre 1638 |        |
+|     | 6) Asiento de Juan de Cárcamo, propietario del Valle de Comayagua, para el retorno de su hijo Alonso Pineda.         | 7 noviembre 1638 |        |
+|     | 7) Contrato por hecho bajo fianza, a favor de José Pacheco, para retorno de deudas.                                  | 7 noviembre 1638 |        |
+|     | 8) Carta de ingreso e inspección para un convento de la Catedral de Comayagua.                                      | 7 noviembre 1638 |        |
+|     | 9) Carta poder otorgada por Antonio Rodríguez a Diego Duarte, sobre la administración de propiedades.               | 7 noviembre 1638 |        |
+|     | 10) Declaración de bienes de Francisco López, bajo supervisión del escribano.                                       | 7 noviembre 1638 |        |
+|     | 11) Orden de inspección para terrenos asignados a la Catedral de Comayagua.                                         | 7 noviembre 1638 |        |
+
 
 ---
 
-Si necesitas otro ajuste o más detalles, házmelo saber. 😊
+
