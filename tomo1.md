@@ -316,6 +316,39 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 287  | Demanda que puso Cosme de Villafranca a Benito Gómez, por una mula llamada Gregoria, que se hurtó, Tegucigalpa. Documento deteriorado. | 17 agosto 1675     | 7      |
 | 288  | Proceso contra Nicolás de León, por rapto de una esclava de Antonio Centeno, de Nueva Segovia. Documento deteriorado e incompleto. | 30 agosto 1675     | 7      |
 | 289  | Pasaje del título de tierra del sitio nombrado "San Antonio Mocel", jurisdicción de Gualcinse, a pedimento de Diego Gómez, Lempa. Documento incompleto. | 14 septiembre 1675 | 2      |
+| 290.   | Proceso contra el Capitán Mateo de Rivera, Franco Ruiz y José Román, por heridas que se dieron, a consecuencia de un chisme de Florencia Damas. Documento deteriorado. | 20 septiembre 1675 | 12     |
+| 291.   | Expediente de embargo de los bienes totales de María de Morales, viuda del contador de las Cajas Reales, Francisco Pardo de Ugarte, por deudas con el Fisco. Tegucigalpa. Documento incompleto. | 23 septiembre 1675 | 10     |
+| 292.   | Petición en que se envió Eugenio Lobo con María Morales, sobre unas deudas que tenía con él, Tegucigalpa. Documento incompleto.                                         | 29 octubre 1675   | 1      |
+| 293.   | Testimonio de la Real Cédula, para que se le presten facilidades a Juan Ferrera, escribano mayor de la Real Audiencia. Documento deteriorado.                        | 6 noviembre 1675  | 2      |
+| 294.   | Carta de Fernando Salvatierra, sobre un negocio de tintas. Documento deteriorado.                                                                                   | 16 noviembre 1675 | 1      |
+| 295.   | Proceso contra Simón Rengifo de Rivera, por haber vendido tinta sin adulterar a Francisco Segura. Documento incompleto.                                              | 18 noviembre 1675 | 7      |
+| 296.   | Petición de Juan de Ugarte y Juan Bautista de Meneses, sobre el testimonio que tienen en las Reales Cajas, Tegucigalpa. Documento deteriorado.                       | 30 noviembre 1675 | 4      |
+| 297.   | Certificación de los administradores de las Cajas Reales que uno de los libros había confesado el escribano Gabriel Carrero. Documento incompleto. | 30 noviembre 1675 | 4      |
+| 298.   | Testamento de Bartolomé Salvatierra. Documento deteriorado e incompleto.                                                                                           | 24 enero 1676     | 2      |
+| 299.   | Pasajes del título del sitio nombrado “San Sebastián”, en el departamento de Lempira. Documento deteriorado.                                                       | 18 febrero 1676   | 1      |
+| 300.   | Petición de Manuela de Arce Figueroa, viuda del exiliado mayor Antonio Nieto y Figueroa, reclamando el pago de una deuda. Documento deteriorado.                   | 26 febrero 1676   | 1      |
+| 301.   | Pedimento hecho por Juan López para perseguir a Nicolás Aparicio, acusado de haber robado una mula. Documento deteriorado.                                        | 21 marzo 1676     | 1      |
+| 302.   | Mandato al Comendador del Convento de Las Mercedes para restituir bienes embargados. Documento deteriorado.                                                       | 29 abril 1676     | 1      |
+| 303.   | Provisión del Alcalde Mayor, ejecutando diligencias sobre Martín Moreno. Documento incompleto.                                                                           | 2 mayo 1676       | 2      |
+| 304.   | Diligencias hechas para averiguar cuánto dinero había sacado Martín Moreno. Documento deteriorado.                                                                     | 4 mayo 1676       | 6      |
+| **Caja No. 12**                                                                                                                                                               |                   |        |
+| 305.   | Pasajes finales de testimonios sobre declaraciones de Alonso Díaz de Moisés. Documento deteriorado.                                                                  | 7 mayo 1676       | 1      |
+| 306.   | Petición de Pedro Pascual de Alvarado pidiendo la devolución de una fianza. Documento incompleto y deteriorado.                                                       | 7 mayo 1676       | 1      |
+| 307.   | Provisión del Alcalde Salvatierra sobre el caso de Diego de Rivera. Documento incompleto.                                                                             | 15 mayo 1676      | 1      |
+| 308.   | Demanda puesta por el Capitán Diego de Aguilera y Peralta, por nueve bestias mulares que había perdido mientras trabajaba en la Real de Minas. Documento deteriorado. | 19 mayo 1676      | 7      |
+| 309.   | Petición del Alcalde y demás autoridades locales del pueblo de Orica, reclamando el pago por el trabajo de cuidar unas bestias que pertenecen a Diego de Aguilera, Tegucigalpa. Documento incompleto. | 20 mayo 1676      | 1      |
+| 310.   | Para que María de Cárcamo declare los bienes que poseía su marido, Tegucigalpa. Documento deteriorado.                                                                   | 23 mayo 1676      | 41     |
+| 311.   | Pasajes de la causa criminal contra Fabián de Barahona, por heridas que dio a José Cárcamo, Tegucigalpa. Documento deteriorado.                                           | 26 mayo 1676      | 3      |
+| 312.   | Demanda de Manuela de Arce Figueroa contra el Capitán Diego de Aguilera, por no cumplir con el pago del alquiler de una casa. Documento deteriorado.                    | 30 mayo 1676      | 6      |
+| 313.   | Bando prohibiendo la sacada de carros para otras provincias, como frijoles, trigo y maíz. Documento deteriorado.                                                        | 11 junio 1676     | 1      |
+| 314.   | Auto de visita a los pueblos indígenas. No parece existir ningún acta de los pueblos visitados. Tegucigalpa. Documento incompleto.                                      | 30 junio 1676     | 2      |
+| 315.   | Información seguida a pedimento de los vecinos del pueblo de Lepaterique, para justificar ser dueños del terreno llamado Mulaca, comprado a Isabel Henríquez. Documento deteriorado. | 2 julio 1676      | 8      |
+| 316.   | Litis entre Diego Fernández Vivas y Sebastián Flores, por una mina situada en el mineral de San Salvador. Documento deteriorado.                                        | 5 julio 1676      | 10     |
+| 317.   | Auto para que Antonio Durón venda sus botijas de vino en la taberna pública a cuatro reales el cuartillo. Documento deteriorado.                                         | 8 julio 1676      | 2      |
+| 318.   | Visita de los pueblos de Comayagüela y Tegucigalpa. Documento deteriorado.                                                                                                | 9 julio 1676      | 11     |
+| 319.   | Causa contra Sebastián López, por haber sacado del cepo a Pedro López, su hijo, quien estaba acusado de incesto, Tamara. Documento deteriorado.                          | 15 julio 1676     | 25     |
+| 320.   | Proceso contra Nicolás Tejeda y María Rodríguez de Carranza, por amancebamiento. Documento deteriorado.                                                                  | 5 agosto 1676     | 8      |
+| 321.   | Testimonio de la Real Cédula, mandando que los Ministros de la Santa Cruzada solo gocen de fuero relativo al desempeño de sus funciones, Madrid, 2 de agosto de 1675. Documento deteriorado. | 8 agosto 1676     | 4      |
 
 ---
 
