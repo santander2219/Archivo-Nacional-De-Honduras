@@ -247,6 +247,75 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 219. | Providencia del Capitán General de Guatemala, para que el Alcalde Mayor pudiese proceder contra los ocultadores de plata sin quintar. Documento incompleto.                                                                                      | 1 mayo 1673     | 2      |
 | 220. | Sentencia contra unos indios, por ejercer brujerías, Santiago de Guatemala. Documento deteriorado.                                                                                                                                                | 27 mayo 1673    | 16     |
 | 221. | Autos de visita y reconocimiento de la mina, en ingenio de metales, pertenecientes al señor Diego Fernández Vivas, Tegucigalpa. Documento deteriorado.                                                                                            | 19 junio 1673   | 9      |
+| 222.   | Páginas de un libro de Administración sobre cobro de tributos. Documento deteriorado. | 15 julio 1673 - 16 agosto 1683 | 2 |
+| 223.   | Querella criminal a pedimento de Pablo Ferrufino Matute, contra Lorenzo Godoy y demás acompañantes, por haber robado en su mina de "San Salvador", Tegucigalpa. Documento incompleto. | 27 julio 1673 | 8 |
+| 224.   | Testimonio de la ejecución contra Bartolomé González, por cuatrocientos pesos, hecho por Pedro de Herrera y Cevallos, y su mujer Jerónima de Guinea, sacado en Guatemala. Documento deteriorado. | 8 agosto 1673 | 8 |
+| 225.   | Pedro de Uclés, denuncia una mina de San Antonio. Documento incompleto. | 13 octubre 1673 | 1 |
+| 226.   | Mandamiento de prisión contra Juan de Llanos por haber estorbado unos matrimonios de indios, del pueblo de Aguanqueterique. Documento incompleto. | 22 octubre 1673 | 1 |
+| 227.   | Providencia para evitar los hurtos y demás daños, ocasionados en las milpas de este Real de Minas. Documento incompleto. | 2 noviembre 1673 | 2 |
+| 228.   | Reclamación de Sebastiana Hernández, contra Ana de Villafranca, por un hijo que le tenía en su poder. Documento deteriorado e incompleto. | 25 noviembre 1673 | 1 |
+| 229.   | Mandato de prisión contra Juan de Cáceres, por desobediencia a la autoridad. Documento incompleto. | 27 noviembre 1673 | 1 |
+| 230.   | Multa impuesta por el Alcalde Mayor Salvatierra, a Franco del Valle, por haber llevado al indio Diego Hernández, sin el permiso correspondiente a Guatemala, Tegucigalpa. Documento incompleto. | 1 diciembre 1673 | 1 |
+| 231.   | Gonzalo Rodríguez reclama una mula de su propiedad, mandada embargar presumiéndose por propiedad de Diego de Aguilera, del pueblo de Orica. Documento incompleto. | 4 diciembre 1673 | 5 |
+| 232.   | Contra Nicolás González, Alcalde indio de Texiguat, por haber sido uno de los autores de la muerte de Pedro Hernández, por lo que lo creyeron brujo y hechicero. Documento incompleto. | 11 diciembre 1673 | 13 |
+| 233.   | Isabel de Cárcamo, demanda a su hijo Diego de Aranda, por haber denunciado la Mina del Cerro de San Antonio de Yusguare, en compañía de Cristóbal de Zelaya y Juan Sánchez. Documento deteriorado. | 12 diciembre 1673 | 13 |
+| 234.   | Isabel de Morales, pidió que se reconociera por el Alcalde Mayor, una casa suya, a la cual le rompieron la puerta, y además tomara nota de los muebles que había en ella, Tegucigalpa. Documento incompleto. | 23 diciembre 1673 | 2 |
+| 235.   | Bartolomé González de Cárdenas, demanda a Miguel de Munguía, por una cantidad de pesos. Documento incompleto. | 29 enero 1674 | 3 |
+| 236.   | Petición que hizo José Escobar, del testimonio de la ejecución de los bienes, de los señores Bartolomé González de Cárdenas y de Pedro Barahona. Documento deteriorado. | 17 febrero 1674 | 1 |
+| 237.   | Escrito presentado por los indios naturales del pueblo de Santa Ana de Yusguare, contra Diego de Aguilera, por el cobro de un flete, Tegucigalpa. Documento deteriorado. | 19 febrero 1674 | 5 |
+| 238.   | Demanda puesta por María de Argueñal, contra Rodrigo de Moncada y Diego de Aguilera, Tegucigalpa. Documento deteriorado. | 19 febrero 1674 | 8 |
+| 239.   | Causa contra Diego Aguilera, por azotes que le dio a Diego Hernández, Tegucigalpa. Documento deteriorado. | 19 febrero 1674 | 10 |
+| 240.   | Providencia para justificar el procedimiento de haber abierto las Cajas Reales, el Tesorero José Benito Méndez. Documento deteriorado. | 24 febrero 1674 | 2 |
+| 241.   | Francisco Bravo de Arriola, querella que entabló a Bartolomé de Espinal, por daños y perjuicios que ocasionan al ganado. Documento deteriorado. | 24 febrero 1674 | 42 |
+| 242.   | Providencia del Alcalde Mayor, prohibiendo que se incendiasen los campos, montes y sabanas, por los daños que se le hacen a los ganados, bajo pena de veinticinco pesos, si era español, y de cincuenta azotes, si era indio-mestizo, mulato o negro. Documento incompleto y deteriorado. | 2 marzo 1674 | 1 |
+| 243.   | Despacho librado por el Alférez Fernando Guerra, Alcalde Ordinario de la ciudad de San Miguel, al Alcalde Mayor de Tegucigalpa, pidiéndole testimonio del testamento otorgado por Nicolás Jácome. Documento deteriorado. | 10 marzo 1674 | 1 |
+| 244.   | Andrés Núñez, pidió al Alcalde Mayor Salvatierra, que le mandase a entregar a su hermana Francisca Núñez, que estaba al servicio de J. Juan de Llanos y Valdés. | 25 marzo 1674 | 1 |
+| 245.   | Providencia del Alcalde Mayor de Tegucigalpa, Fernando Alfonso de Salvatierra, en las que se mandan a establecer reglas, inherentes a la disciplina militar, Real de Minas de Tegucigalpa. Documento deteriorado. | 28 marzo 1674 | 1 |
+| 246.   | Petición hecha por los naturales de Tegucigalpa, a fin de que el Padre Cura, haga una casa de habitación junto al pueblo de ellos, Tegucigalpa. Documento incompleto. | 2 abril 1674 | 3 |
+| 247.   | Demanda por un macho, entre Marcos Ramón y Mauricio Fernández. Documento incompleto. | 2 abril 1674 | 4 |
+| 248.   | Escrito por el cual Fernando del Valle, pidió testimonio de una escritura de un censo redimido, que había pertenecido al convento de San Francisco, Tegucigalpa. Documento deteriorado. | 4 abril 1674 | 1 |
+| 249.   | Libro de Registros de Minas de Tegucigalpa. Documento deteriorado. | 5 abril 1674 - 25 mayo 1678 | 56 |
+| 250.   | Testimonio del litigio entre el Síndico del Convento de San Francisco, Antonio Dencho Durón, y Fernando del Valle, por 140 pesos de intereses de una capellanía, fundada por Pedro Valdés de Cárcamo, sacado del testimonio. Documento incompleto. | 6 abril 1674 | 24 |
+| 251.   | Proceso contra Valeriano, negro esclavo de Alonso Núñez, por heridas a Pedro Zerón. Documento deteriorado. | 14 abril 1674 | 8 |
+| 252.   | Proceso contra Esteban de la Cruz y María de Cáceres, por amancebamiento. Documento deteriorado. | 26 abril 1674 | 6 |
+| 253.   | Antonio Ariza, pide licencia para poder sacar 5 cargas de harina, con destino a la ciudad de San Miguel, en virtud de la prohibición que se ha dictado, Tegucigalpa. Documento incompleto y deteriorado. | 30 mayo 1674 | 1 |
+| 254.   | Demanda de María Hurtado de Mendoza, para que Bartolomé Ferrera le entregue a su hija, que retiene contra su voluntad, Tegucigalpa. Documento deteriorado. | 9 junio 1674 | 10 |
+| 255.   | Carta de dote de Francisca Oseguera, otorgada en su favor su padre, que tenía a su cargo Nicolás de Apriscio. Documento deteriorado. | 11 junio 1674 | 11 |
+| 256  | José Benito Méndez, denuncia una mina de plata nombrada Nuestra Señora de la Soledad, Tegucigalpa. Documento deteriorado. | 30 junio 1674      | 1      |
+|      | **Caja No. 11**                                                                                                  |                    |        |
+| 257  | Escrito por el cual Matías de Turcios, pidió a la autoridad que pusiese a dos hermanos menores que tenía, a aprender algún oficio. Documento deteriorado. | 2 julio 1674       | 1      |
+| 258  | Mandato del Alcalde Mayor Alfonso de Salvatierra, poniendo a Faustino Turcios, de aprendiz en una herrería de Sebastián Fernández. Documento incompleto. | 7 julio 1674       | 1      |
+| 259  | Información para averiguar quién de esta plaza robó unas bestias a Miguel Bernardino, Alcalde de los indios de Tegucigalpa. Documento deteriorado. | 8 julio 1674       | 2      |
+| 260  | Comisión dada por el Alcalde Mayor de Tegucigalpa, a Alonso de La Zamora, para la ejecución de una deuda de Alonso de Heredia. Documento incompleto. | 20 julio 1674      | 1      |
+| 261  | El Beneficiado Franco de Merlo de la Fuente, pide dos testimonios, de la escritura de censo que perteneció a la Capellanía. Documento deteriorado. | 7 agosto 1674      | 1      |
+| 262  | Petición del rematante de Rastros Cibrián de Andino, para que se prohibiese vender carne a los particulares, que mermaban su propio negocio. Documento incompleto. | 18 agosto 1674     | 1      |
+| 263  | Queja de Isabel, india naboría de Tegucigalpa, contra Cristóbal Pérez, indio, por haberla deshonrado. Documento deteriorado. | 9 septiembre 1674  | 3      |
+| 264  | Causa sobre nulidad de un matrimonio promovido por José Muñoz, juez, al Alcalde Mayor Fernando de Salvatierra, Tegucigalpa. Documento deteriorado. | 13 septiembre 1674 | 4      |
+| 265  | Petición que hizo María de Morales, al Alcalde Mayor para que le entregara su carta de dote. Documento deteriorado. | 18 septiembre 1674 | 8      |
+| 266  | Matías de Vallecillo, pidió la cancelación de una deuda de 250 pesos que es en deberle Pedro de Barahona, Tegucigalpa. Documento deteriorado. | 20 septiembre 1674 | 2      |
+| 267  | Expediente que contiene las diligencias de ejecución, contra Franco Fardo de Ugarte, ex-oficial de la Real de Cuentas. Documento deteriorado. | 22 septiembre 1674 | 26     |
+| 268  | Demanda de José Muñoz a Bartolomé de Paz. Documento deteriorado.                                                  | 30 septiembre 1674 | 1      |
+| 269  | Proceso contra Pedro Barahona por deudas, y por haberse fugado de las cárceles de este Real de Minas. Documento deteriorado. | 12 octubre 1674    | 13     |
+| 270  | Testimonio de la Real Provisión, para el Alcalde Mayor de las minas de Tegucigalpa, o su Teniente. Documento deteriorado. | 28 diciembre 1674  | 6      |
+| 271  | Autos de diligencias de las muertes de Beatriz Díaz, viuda de Juan Herrera, y de Estefanía de Mendoza, mujer de Juan Fernández. Documento incompleto. | 13 febrero 1675    | 10     |
+| 272  | Libro en que se sientan las manifestaciones de las mercancías de los mercaderes entrantes y salientes, en este Real de Minas, Tegucigalpa. Documento deteriorado. | 16 febrero 1675    | 15     |
+| 273  | Causa de oficios de la Real Justicia, contra Pedro Justiniano, indio de la jurisdicción de Comayagua, por haberse hurtado una india casada. Documento deteriorado. | 25 febrero 1675    | 7      |
+| 274  | Autos criminales contra Fabián Gregorio, indio del pueblo de Guarípe, por desobediencia a la Real Justicia, Tegucigalpa. Documento deteriorado. | 27 febrero 1675    | 11     |
+| 275  | Juan Benites, vecino de San Sebastián, pide un mandamiento especial para recoger los indios y reconstruir la Iglesia del pueblo. Documento deteriorado. | 4 marzo 1675       | 1      |
+| 276  | Licitación de las carnicerías del Real de Minas de Tegucigalpa. Documento deteriorado.                             | 27 marzo 1675      | 8      |
+| 277  | Autos contra Tomás de La Cruz, mulato libre, por una cantidad de dinero que debía. Documento deteriorado.          | 22 abril 1675      | 7      |
+| 278  | Causa contra Vicente Juan y Francisca Muñoz, por amancebados, contra Diego Lobato e Isidro Martín. Documento deteriorado. | 27 abril 1675      | 20     |
+| 279  | Jerónima Vásquez pidió que Pedro Amador exhiba el testamento que Diego Vásquez su hijo, hizo al morir. Documento incompleto. | 2 mayo 1675        | 1      |
+| 280  | Testimonio de la Real Cédula, que contiene la restitución del ensayador de plata Juan Guerrero. Documento incompleto. | 22 mayo 1675       | 2      |
+| 281  | Luis de Ávila, hace un reclamo a María Carranza, por haberle hurtado la esposa de su nieto, que se encontraba en depósito, Tegucigalpa. Documento deteriorado. | 27 mayo 1675       | 1      |
+| 282  | Mandamiento que libró el Alcalde Mayor Fernando Alfonso de Salvatierra, para hacer comparecer a sus oficios a Nicolás de Tejada. Documento deteriorado. | 29 mayo 1675       | 1      |
+| 283  | Notificación a Nicolás de la Cruz Tejada, para que regrese a su hogar que lo ha abandonado, Tegucigalpa. Documento incompleto. | 30 mayo 1675       | 1      |
+| 284  | Proceso contra Francisco de Argüelles, por heridas a José Gómez, vecino de Cantarranas. Documento deteriorado.     | 7 junio 1675       | 35     |
+| 285  | Auto de Fernando Alfonso de Salvatierra, Alcalde Mayor, en el que manda se ponga en estado la causa que se sigue contra Franco Argüelles. Documento deteriorado. | 18 julio 1675      | 1      |
+| 286  | Fragmentos del título de un terreno situado en el pueblo de Yusguare. Documento deteriorado.                      | 8 agosto 1675      | 7      |
+| 287  | Demanda que puso Cosme de Villafranca a Benito Gómez, por una mula llamada Gregoria, que se hurtó, Tegucigalpa. Documento deteriorado. | 17 agosto 1675     | 7      |
+| 288  | Proceso contra Nicolás de León, por rapto de una esclava de Antonio Centeno, de Nueva Segovia. Documento deteriorado e incompleto. | 30 agosto 1675     | 7      |
+| 289  | Pasaje del título de tierra del sitio nombrado "San Antonio Mocel", jurisdicción de Gualcinse, a pedimento de Diego Gómez, Lempa. Documento incompleto. | 14 septiembre 1675 | 2      |
 
 ---
 
