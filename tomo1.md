@@ -1,4 +1,4 @@
-Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente integrados en la sección de documentos agrupados:
+Tomo I Fondo Colonial
 
 ---
 
