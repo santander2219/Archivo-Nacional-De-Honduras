@@ -458,6 +458,27 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 426    | Pasajes de la información seguida contra José de Inestroza. Documento incompleto y deteriorado.                                                                                   | 1675               | 1          |
 | 427    | Pasaje de una información de la causa contra Juan de Izaguirre, por desobediencia a la autoridad, Tegucigalpa. No tiene fecha. Documento incompleto y deteriorado.                  | 1677               | 1          |
 | 428    | Auto en que se le manda a Bernardo de Funes y a Lucas Hernández, no tengan litigios ni se inquieten en las milpas que tienen, Real de Minas. No tiene fecha. Documento incompleto y deteriorado. | 1677               | 1          |
+| 429    | Fragmento de una información de una causa criminal contra Salvador mulato libre. Documento incompleto y deteriorado.                                              | 1677         | 1      |
+|        | **Caja No. 15**                                                                                                                                                   |              |        |
+| 430    | Providencia mandando a depositar los hijos de Diego de Vargas, ordenando a éste y a su mujer, se avecindasen en Tatumbla, Tegucigalpa. Documento incompleto y deteriorado. | 11 enero 1680 | 2      |
+| 431    | Pleito de una mina entre Juan de Funes y Ana Ferrera, Tegucigalpa. Documento deteriorado.                                                                           | 16 enero 1680 | 22     |
+| 432    | Querella dada por Franco Díaz, contra Bartolomé Ponce por haberlo engañado, en la venta de cuarenta y ocho cargas de cacao, Tegucigalpa. Documento deteriorado.      | 15 mayo 1680  | 3      |
+| 433    | Demanda puesta por Benito de Funes contra Alonso Girón, sobre unas tierras, Tegucigalpa. Documento deteriorado.                                                    | 24 mayo 1680  | 15     |
+| 434    | Criminal contra Sebastián Sánchez, por haber herido a Pedro Cerrato, Tegucigalpa. Documento deteriorado.                                                           | 27 mayo 1680  | 8      |
+| 435    | Petición de Pedro Sevilla ensayador de las Reales Cajas, pide se le cancelada una deuda por parte de Alonso Luque, Tegucigalpa. Documento deteriorado.              | 31 mayo 1680  | 1      |
+| 436    | Providencia para que Gregorio Contreras exhiba los bienes del Alférez Alonso Cordero, Tegucigalpa. Documento deteriorado.                                          | 3 junio 1680 | 1      |
+| 437    | Providencia del Alcalde Mayor para que Lorenzo de Zepeda entregue a Dominga, mulata libre que ha sido sirvienta, unos trastos de muebles que no le quería entregar, Tegucigalpa. Documento deteriorado. | 21 junio 1680 | 1      |
+| 438    | Proceso contra Bernardo de la Cuadra y Zayas, por haber querido matar a José Romero, y perseguir oportunamente a María de Argueta, Tegucigalpa. Documento deteriorado. | 28 junio 1680 | 19     |
+| 439    | Criminal contra Pedro Izquierdo, por herida a Franco de Cerna, Tegucigalpa. Documento deteriorado.                                                                 | 25 agosto 1680 | 4      |
+| 440    | Demanda de Diego Fernández Vivas contra Antonio Cuaresma, como poseedor de Juan Miguel Cuaresma, su madre, Tegucigalpa. Documento deteriorado.                     | 20 septiembre 1680 | 3      |
+| 441    | Auto contra Alejandro, mestizo, por amancebamiento con Ana de los Ríos, Tegucigalpa. Documento deteriorado.                                                        | 8 octubre 1680 | 2      |
+| 442    | Mandamiento del Alcalde Mayor de Tegucigalpa, Fernando Alfonso de Salvatierra, ordenando que se hará remisión de pena de cámara y gastos de guerra para los soldados, Tegucigalpa. Documento deteriorado. | 10 octubre 1680 | 1      |
+| 443    | Proceso contra Juan de Izaguirre, por haber elaborado tinta añil con indios, Tegucigalpa. Documento deteriorado.                                                   | 26 octubre 1680 | 4      |
+| 444    | Causa contra el capitán Pedro de Alvarado, por fabricar añil con indios, San Antonio de Langue. Documento deteriorado.                                              | 5 noviembre 1680 | 2      |
+| 445    | Autos finales de una causa judicial contra el capitán Pedro de Alvarado, por haber hecho tinta añil, San Antonio de Langue. Documento incompleto y deteriorado.     | 5 noviembre 1680 | 2      |
+| 446    | Información seguida por el Alcalde Mayor Fernando Alfonso de Salvatierra, sobre los tres sitios "San Antonio", "San Matías" y "San Ildefonso" Guascoran, Tegucigalpa. Documento deteriorado. | 6 noviembre 1680 | 3      |
+| 447    | Providencia del Alcalde Mayor Fernando Alfonso de Salvatierra para que sean desorejadas, Marta de Avilés, Luisa de Ochoa y la madre de ambas, por amancebamiento, Tegucigalpa. Documento incompleto y deteriorado. | 7 noviembre 1680 | 2      |
+| 448    | Pedro Valdés de Cárcamo, pidió se le dé un testimonio de la escritura de reconocimiento de un censo impuesto como capellanía, Tegucigalpa. Documento deteriorado.   | 20 noviembre 1680 | 3      |
 
 ---
 
