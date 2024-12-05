@@ -349,6 +349,34 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 319.   | Causa contra Sebastián López, por haber sacado del cepo a Pedro López, su hijo, quien estaba acusado de incesto, Tamara. Documento deteriorado.                          | 15 julio 1676     | 25     |
 | 320.   | Proceso contra Nicolás Tejeda y María Rodríguez de Carranza, por amancebamiento. Documento deteriorado.                                                                  | 5 agosto 1676     | 8      |
 | 321.   | Testimonio de la Real Cédula, mandando que los Ministros de la Santa Cruzada solo gocen de fuero relativo al desempeño de sus funciones, Madrid, 2 de agosto de 1675. Documento deteriorado. | 8 agosto 1676     | 4      |
+### Transcripción de los cuadros de las imágenes 51, 52 y 53
+
+#### **Imagen 51**
+| No.  | Descripción de los expedientes                                                                                                     | Fecha              | Folios |
+|------|------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------|
+| 322. | Petición hecha por Diego de Cantarero, en la que solicita las declaratorias de bienes testamentarios de su madre Catalina de Chávez, Tegucigalpa. Documento deteriorado. | 12 agosto 1676     | 6      |
+| 323. | Pasajes del testimonio de los custodios de tres ordenanzas encargadas a Eugenio Lobo, Tegucigalpa. Documento incompleto.            | 18 agosto 1676     | 2      |
+| 324. | Causa civil contra Juan de Llanos y Valdez, por estorbar la recolección de matrimonios de los indios de Aguantequerique, Tegucigalpa. Documento deteriorado. | 18 agosto 1676     | 11     |
+| 325. | Testimonio de las diligencias practicadas por el Alcalde Mayor Fernando Alfonso de Salvatierra, para exigir fianza al Tesorero Juan de Vargas, Tegucigalpa. | 18 agosto 1676     | 3      |
+| 326. | Providencia del Maestre de Campo Fernando Alfonso de Salvatierra, para prohibir a María de Morales y Ambrosio Niño Ladrón de Guevara su retiro de la Hacienda de Hampa. Documento deteriorado. | 19 agosto 1676     | 2      |
+| 327. | Proceso contra Simón Gradas por desacato a la autoridad, quien mandó traer una india que se mudó tras el fallecimiento de su esposo. Documento incompleto. | 22 agosto 1676     | 3      |
+| 328. | Expediente que contiene las condiciones de obras de hacer tintas, contraviniendo las ordenanzas reales, Tegucigalpa. Documento deteriorado. | 16 septiembre 1676 | 8      |
+|------|------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------|
+| 329. | José de Carmona a nombre de una cofradía, demanda a Martín de Fuentes, por 45 tostones que debe. Documento deteriorado.             | 7 octubre 1676     | 1      |
+| 330. | Demanda puesta por Domingo, esclavo negro, pidiendo la exhibición del testamento perteneciente a la mortal de Antonio de Cárcamo, Tegucigalpa. Documento deteriorado. | 7 octubre 1676     | 26     |
+| 331. | Causa criminal contra Agustín de Ariaran, por negarse a entregar a Ana González, india de Pespire, esposa de Agustín Hernández, Tegucigalpa. Documento deteriorado. | 15 octubre 1676    | 1      |
+| 332. | Traspaso de un censo establecido en la Hacienda de San Nicolás de Ilamapa, por Luis Ochoa de la Torre, Tegucigalpa. Documento deteriorado. | 26 octubre 1676    | 5      |
+| 333. | Pasajes de un mandamiento de 4 indios, que fueron repartidos al pueblo de Támara, Tegucigalpa. Documento deteriorado.               | 3 diciembre 1676   | 1      |
+| 334. | Providencia del Alcalde Mayor de Tegucigalpa, sobre la restitución de una esclava llamada Antonija, Tegucigalpa. Documento deteriorado. | 19 diciembre 1676  | 1      |
+|------|------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------|
+| 335. | Causa instruida contra el sargento Pedro Martínez de Guzmán, por amancebados, Tegucigalpa. Documento incompleto.                   | 15 febrero 1677    | 5      |
+| 336. | Causa instruida contra Juan de Valderas y Tomasina, esclava, por amancebamiento, Tegucigalpa.                                       | 15 febrero 1677    | 7      |
+| 337. | Causa criminal contra Catalina, una mulata libre, por una querella con Micaela de Fúnez, Real de Minas de Tegucigalpa. Documento deteriorado. | 25 febrero 1677    | 3      |
+| 338. | Dos demandas de Juan Francisco de Castañeda, contra Ramón Henríquez y Jorge Montoya, por ser ambos deudores de él. Documento incompleto. | 15 marzo 1677      | 2      |
+| 339. | Mandamiento para poner preso a Jorge de Montoya, por desobediencia a la autoridad. Documento incompleto.                           | 16 marzo 1677      | 1      |
+| 340. | Pasajes de una causa judicial contra Gaspar Ventura, para que entregue unos efectos de montar en caballo, en su hijo, Guaíscorán. Documento incompleto. | 22 marzo 1677      | 5      |
+| 341. | Ejecución contra los deudores de Matías de Vallecillo, por su representante Juan Matías de Meneses, Guatemala. Documento deteriorado. | 8 abril 1677       | 2      |
+| 342. | Providencia para que no salga ningún vecino de este Real de Minas de Tegucigalpa hasta que pasen las fiestas Reales de la Coronación de Carlos V. Documento deteriorado. | 17 abril 1677      | 1      |
 
 ---
 
