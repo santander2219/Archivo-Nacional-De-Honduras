@@ -478,7 +478,50 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 445    | Autos finales de una causa judicial contra el capitán Pedro de Alvarado, por haber hecho tinta añil, San Antonio de Langue. Documento incompleto y deteriorado.     | 5 noviembre 1680 | 2      |
 | 446    | Información seguida por el Alcalde Mayor Fernando Alfonso de Salvatierra, sobre los tres sitios "San Antonio", "San Matías" y "San Ildefonso" Guascoran, Tegucigalpa. Documento deteriorado. | 6 noviembre 1680 | 3      |
 | 447    | Providencia del Alcalde Mayor Fernando Alfonso de Salvatierra para que sean desorejadas, Marta de Avilés, Luisa de Ochoa y la madre de ambas, por amancebamiento, Tegucigalpa. Documento incompleto y deteriorado. | 7 noviembre 1680 | 2      |
-| 448    | Pedro Valdés de Cárcamo, pidió se le dé un testimonio de la escritura de reconocimiento de un censo impuesto como capellanía, Tegucigalpa. Documento deteriorado.   | 20 noviembre 1680 | 3      |
+| 448    | Pedro Valdés de Cárcamo, pidió se le dé un testimonio de la escritura de reconocimiento de un censo impuesto como capellanía, sobre la Hacienda de Juan del Valle, vecino de Jamastrán, que instituyó Pedro Cárcamo y Valdez, Tegucigalpa. Documento incompleto y deteriorado., Tegucigalpa. Documento deteriorado.   | 20 noviembre 1680 | 3      |
+| 449  | Causa contra Juan de Navas por deudas, Tegucigalpa. Documento deteriorado.                                                                                              | 28 noviembre 1680 | 8     |
+| 450  | Providencia del Alcalde Mayor Fernando Alfonso de Salvatierra, prohibiendo la extracción de toros y vacas de su jurisdicción. Documento deteriorado.                    | 7 diciembre 1680 | 2      |
+| 451  | Comisión para la averiguación de la muerte de Diego Rodríguez, e inventario de sus bienes, Tegucigalpa. Documento deteriorado.                                          | 21 enero 1681    | 19     |
+| 452  | Proceso contra Alonso Ortiz, por haber engañado con palabra de casamiento a Inés de León. Documento deteriorado.                                                        | 21 febrero 1681  | 27     |
+| 453  | Providencia para que ningún habitante de los Valles de Guasinca, Talanga y Liquitimaya, dé asilo a Pedro Izquierdo heridor de Francisco Cerna. Documento deteriorado.    | 3 marzo 1681     | 1      |
+| 454  | Providencia mandando poner en depósito a Francisca Espinoza, mulata libre, por amancebamiento con Pedro Baca, mulato libre. Documento incompleto y deteriorado.          | 10 marzo 1681    | 1      |
+| 455  | Fabián Flores de Vargas, reconoce un capital de $1,500 por capellanía, testimonio sacado en Guatemala. Documento deteriorado.                                           | 26 marzo 1681    | 9      |
+| 456  | Providencia al Alcalde Mayor de Tegucigalpa, depositando en casa de Pedro Ortíz, a una india naboría llamada Inés Vázquez, Tegucigalpa. Documento incompleto y deteriorado. | 15 abril 1681    | 1      |
+| 457  | Petición de Joaquín Muñoz de Rojas, para que todos los mineros de este Real de Minas, tra bajasen las minas porque estos las arruinaban y no querían por operarios. Documento deteriorado. | 16 abril 1681    | 1      |
+| 458  | Causa criminal contra Miguel Cag tillo y cómplices, por hurto en la tienda de Bernardo de León Quiroz. Documento deteriorado.                                             | 6 mayo 1681      | 62     |
+| 459  | Testamento de María de Armijo y otras diligencias de inventario. Documento deteriorado.                                                                                  | 13 junio 1681    | 11     |
+| 460  | Providencia del alcalde mayor, para nombrar evaluadores de bienes de María de Cárcamo, Tegucigalpa. Documento deteriorado.                                               | 21 junio 1681    | 2      |
+| 461  | Páginas de un libro de entradas y salidas pertenecientes a las reales cajas, Tegucigalpa. Documento deteriorado.                                                         | 4 julio 1681     | 14     |
+| 462  | Pleito de una casa y un solar, entre Juana Jiménez y Luis Martín, Tegucigalpa. Documento deteriorado.                                                                    | 8 agosto 1681    | 2      |
+| 463  | Demanda que el Comendador del Convento de la Merced de Comayagua, Fray Pedro de Carbajal, puso a Juan Matute por sesenta y una yeguas, la hacienda de Santa Cruz de Rancho Chiquito, que faltaban cuando se entregó. Documento deteriorado. | 20 agosto 1681   | 2      |
+| 464  | Pase de una resolución del Alcalde Mayor de Tegucigalpa, contra un mulato esclavo de apellido Castillo, mandando a su dueño Fernando del Valle, el deporte de la Provincia y su jurisdicción, Tegucigalpa. Documento incompleto y deteriorado. | 21 octubre 1681  | 1      |
+| 465  | Causa criminal contra el capitán Pedro Alvarado, por abusos de autoridad. Documento deteriorado.                                                                         | 3 noviembre 1681 | 4      |
+| 466  | Proceso contra Domingo de Chavarría, por haber elaborado añil con indios, Aguasquerique. Documento deteriorado.                                                          | 5 noviembre 1681 | 4      |
+| 467  | Petición de Juan Cruz de Guzmán, de la herencia de su madre María de la Canal, Goascorán. Documento deteriorado.                                                         | 24 noviembre 1681| 3      |
+|      | **Caja No. 16**                                                                                                                                                          |                  |        |
+| 468  | Denuncia que hace Antonio de Rojas, de una mina llamada "San Juan Bautista", en el cerro de San Salvador. Documento deteriorado.                                         | 7 enero 1682     | 1      |
+| 469    | Fragmento de una nota familiar de Pedro Herrando de Montero. Documento incompleto y deteriorado.                  | 8 enero 1682  | 1      |
+| 470    | Causa criminal de oficio contra Blas de Espinosa y su hijo Pedro, por la muerte de Pedro Moncada y Juan Leiva. Documento deteriorado. | 16 enero 1682 | 32     |
+| 471    | Testimonio del testamento y la mortual de María de Armijo, hecho el 13 de junio de 1671, sacado del testimonio en Tegucigalpa. Documento deteriorado. | 3 febrero 1682 | 25     |
+| 472    | Fianza que prestaron al capitán Antonio de Ayala, mil ducados de Castilla, los señores Franco Cárdenas y Rojas. Documento incompleto y deteriorado. | 1 marzo 1682  | 2      |
+| 473    | Demandas que el ensayador Juan Guerrero puso a Bartolomé González, por una deuda. Tegucigalpa. Documento deteriorado. | 2 mayo 1682   | 7      |
+| 474    | Causa criminal seguida contra Mateo Valdez, a pedimento del señor Juan Lobato, por no pagarle algunas mulas. Tegucigalpa. Documento deteriorado. | 2 mayo 1682   | 5      |
+| 475    | Denuncia de la mina nombrada "Nuestra Señora del Rosario", ubicada en el cerro del Malpaís. Documento incompleto y deteriorado. | 2 mayo 1682   | 1      |
+| 476    | Testimonio de la Real Cédula, mandando al capitán General Miguel Argueta y Alba, enviar una relación detallada sobre las encomiendas de su jurisdicción. Tegucigalpa. Documento incompleto. | 7 mayo 1682   | 1      |
+| 477    | Proceso contra Marcos Altamirano, por manosear a una joven indígena. Tegucigalpa. Documento deteriorado.           | 25 mayo 1682  | 8      |
+| 478    | Causa contra los bienes de Joaquín Muñoz de Rojas, por una deuda. Tegucigalpa. Documento deteriorado.              | 8 junio 1682  | 23     |
+| 479    | Denuncia hecha por Antonio Nieto de Figueroa sobre la mina "San Franco", ubicada en el cerro del Malpaís. Tegucigalpa. Documento incompleto. | 12 junio 1682 | 1      |
+| 480    | Información solicitada por Fernando Alfonso de Salvatierra sobre la vajilla de plata de los alcaldes mayores. Tegucigalpa. Documento deteriorado. | 18 junio 1682 | 7      |
+| 481    | Decreto contra Antonio León, por amancebamiento. Tegucigalpa. Documento deteriorado.                               | 20 junio 1682 | 4      |
+| 482    | Mandato para que no se extraigan granos de la jurisdicción del Real de Minas de Tegucigalpa. Documento incompleto.  | 30 junio 1682 | 5      |
+| 483    | Pedimento de Fray Diego de las Navas, para vender tres esclavos que hipotecó Luis Cáceres por 216 pesos de censo. Documento deteriorado. | 1 julio 1682  | 2      |
+| 484    | Autos para entregar tres esclavos a los posaderos José Álvarez y Juan Juárez. Tegucigalpa. Documento deteriorado.   | 4 julio 1682  | 7      |
+| 485    | Pasajes del título de tierra del sitio nombrado "Nombre de Dios", jurisdicción de Olancho, a favor de Juan Estrada. Comayagua. Documento deteriorado. | 8 julio 1682  | 5      |
+| 486    | Demanda puesta por Antonio de León contra Lucas Hernández, por una deuda. Tegucigalpa. Documento deteriorado.      | 16 julio 1682 | 22     |
+| 487    | Acusación contra Francisco Blanco, por llevar una mula sin autorización. Tegucigalpa. Documento deteriorado.       | 7 septiembre 1682 | 10  |
+| 488    | Ejecución de deudas de Enrique Gómez, a cargo de Domingo Ruiz Arce. Comayagua. Documento deteriorado.              | 10 septiembre 1682 | 14  |
+| 489    | Testimonio de varios pasajes en la causa criminal contra Manuel Murcia. Documento incompleto.                      | 19 septiembre 1682 | 29  |
+| 490    | Denuncia de una mina llamada "San Marcos", jurisdicción de Lepaterique. Documento incompleto.                      | 28 septiembre 1682 | 1   |
 
 ---
 
