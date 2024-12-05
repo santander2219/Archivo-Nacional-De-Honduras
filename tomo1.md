@@ -417,6 +417,27 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 386. | Información para averiguar la fuga de un negro llamado Juan de Dios, Tegucigalpa. Documento deteriorado.                                                                               | 31 octubre 1678 | 14     |
 | 387. | Proceso contra el Alférez Ambrosio Flores de Vargas, por haber fabricado tinta añil con indios, Goascorán. Documento deteriorado.                                                       | 2 noviembre 1678 | 6      |
 | 388. | Juicio de residencia contra el ex-Alcalde Mayor Diego de Aguilera y Peralta, sus tenientes, Tegucigalpa. Documento deteriorado.                                                         | 15 noviembre 1678 | 3      |
+| 389. | Francisco Ortiz de Matamoros, pide exoneración presentando la fianza de ley, y el plazo de seis meses para pagar a Manuel Arce de Figueroa. Tegucigalpa. Documento deteriorado. | 1 diciembre 1678  | 11     |
+| 390. | Demanda de Fray Pedro Conde, para que se guarden el convento de San Andrés de Nacaome, por unos censos que exigen impuestos sobre las Haciendas del Alférez Ambrosio Flores de Vargas. Estancia La Candelaria. Documento deteriorado. | 2 diciembre 1678  | 10     |
+| 391. | Inventario de la Hacienda "El Potrero", que se hicieron por la muerte de Domingo de Hornarte. Jurisdicción de Choluteca. Documento deteriorado. | 24 diciembre 1678 | 11     |
+|      | **Caja No. 14**                                                                                                           |                 |        |
+| 392. | Proceso contra Francisco Félix, indio por querella, establecida contra él, por Juan Rodríguez, por haberle raptado a su hija Juana Marcela, de quien se dice dada al matrimonio. Tegucigalpa. Documento deteriorado. | 30 enero 1679    | 5      |
+| 393. | Mortual de Manuela Arce y Figueroa, viuda del capitán Antonio Nieto de Figueroa, Alcalde Mayor de Tegucigalpa. Guatemala. Documento deteriorado. | 12 enero 1679    | 2      |
+| 394. | Ejecución por mil quinientos ochenta y siete pesos, trabada por el capitán Luis Abarca Paniagua, contra los herederos de Manuela de Arce y Figueroa, esposa que fue de Antonio Nieto y Figueroa. Documento deteriorado. | 18 febrero 1679 | 32     |
+| 395. | Proceso contra Ambrosio Flores de Vargas (español), por haber mandado dar azotes a la mulata Juana Marcela, esposa de Juan Hernández. San Andrés de Nacaome. Documento deteriorado. | 27 febrero 1679 | 12     |
+| 396. | Testimonio de un despacho para cobrar las encomiendas de los pueblos de Ojojona, Tepusgalpa y Guajiqui, según lo ordenado en Real Cédula y que habían sido embargados por el Gobierno Superior. Tegucigalpa. Documento incompleto. | 4 marzo 1679    | 1      |
+| 397. | Diligencias para exigir a Antonio Rivera del Cerro, una multa de cuarenta tostones, que hizo efectiva en Gracias a Dios, y no enteró a las Cajas Reales. Documento deteriorado. | 18 marzo 1679   | 5      |
+| 398. | Auto confirmando a María de las Nieves, la herencia y albaceazgo de la mortual de Juan Bautista Méndez. Documento deteriorado. | 28 marzo 1679   | 6      |
+| 399. | Pase de un testimonio de una real cédula, trata de la realización de un donativo. Guatemala, 17 febrero de 1679, sacado del traslado en Tegucigalpa. Documento deteriorado. | 7 abril 1679    | 2      |
+| 400. | Antonio de Morales, natural de la ciudad de San Miguel, demanda a Pedro Nolasco, por una deuda. Tegucigalpa. Documento deteriorado. | 12 abril 1679   | 1      |
+| 401. | Prohibición del Alcalde Mayor Salvatierra, para extraer granos de la provincia de Tegucigalpa. Documento deteriorado.       | 19 abril 1679   | 1      |
+| 402. | Petición hecha por el padre Comendador Fray Lorenzo de León, de Nuestra Señora de la Merced de Tegucigalpa, pidiendo el pago de censos a Jorge y Tomás Montoya. Documento deteriorado. | 22 abril 1679   | 2      |
+| 403. | Libro de cuentas de diversas fechas, tomadas a la comunidad del pueblo de (Alubarèn). Documento deteriorado.               | 26 abril 1679   | 32      |
+| 404. | Testimonio de la Real Cédula sobre corrección de los Recaudos, en Buen Retiro, España. Documento deteriorado.              | 27 abril 1679   | 2      |
+| 405. | Autos y testamentaría de Diego Escoto. Tegucigalpa. Documento incompleto.                                                  | 28 abril 1679   | 15     |
+| 406. | Testamento de Mateo Rivera y Calderón. Tegucigalpa. Documento deteriorado.                                                | 24 mayo 1679    | 30     |
+| 407. | Causa instruida contra Mateo Larios, por brujería. Tatumbla. Documento deteriorado.                                        | 27 mayo 1679    | 4      |
+| 408. | Mandamiento de amparo, a favor de Diego García, indio tributario del pueblo de Lamán, en la posesión de un sitio en el cerro de Upaure, Lepaterique. Tegucigalpa. Documento deteriorado. | 29 mayo 1679    | 13     |
 
 ---
 
