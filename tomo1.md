@@ -393,6 +393,39 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 362. | Proceso contra Marcos de Amador, por amancebamiento con Isabel, india de Ojojona. Tegucigalpa. Documento deteriorado. | 5 noviembre 1677 | 9      |
 | 363. | Orden para que todas las autoridades de la provincia persigan el contrabando de seis cargas de mercaderías, que Enrique Gómez y Andrés Isleño sacaron de Omoa. Documento deteriorado. | 14 noviembre 1677 | 1      |
 | 364. | Criminal contra Patricio del Cerro y Juana Ponce del Cerro, hermanos, por incesto y comunicación ilícita. Tegucigalpa. Documento incompleto. | 14 noviembre 1677 | 35     |
+### Transcripción de los cuadros de las imágenes 57, 58, y 59
+A continuación se transcriben los cuadros iniciando desde el número **365**:
+
+---
+
+**Imagen 57**
+
+| No.  | Descripción de los expedientes                                                                                                                                                           | Fecha            | Folios |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|--------|
+| 365. | Antonio Denche Durón, otorga poder general a su esposa Tomasa Ferrufino, Tegucigalpa. Documento deteriorado.                                                                              | 29 noviembre 1677 | 2      |
+| 366. | Ejecución contra Pedro González, por no haber pagado al Juez que midió sus tierras, Tegucigalpa. Documento deteriorado.                                                                   | 25 enero 1678    | 4      |
+| 367. | Pasaje de una demanda de Pedro Martínez, contra Alonso Díaz, por una deuda, Tegucigalpa. Documento deteriorado.                                                                           | 7 marzo 1678     | 2      |
+| 368. | Mandamiento del Alcalde Mayor Salvatierras, para que Diego Martínez, trajese preso a Baltazar de Vindel y a Martín de Fuentes, Tegucigalpa. Documento deteriorado.                        | 16 marzo 1678    | 3      |
+| 369. | Expediente que contiene los autos de visitas del Alcalde Mayor de Tegucigalpa, hechas a las minas de su jurisdicción, Tegucigalpa, 15 de noviembre de 1677. Documento incompleto.         | 20 marzo 1678    | 12     |
+| 370. | Proceso contra Diego del Rivero, por calumnia que hizo al Alcalde Salvatierras, Tegucigalpa. Documento deteriorado.                                                                        | 26 marzo 1678    | 5      |
+| 371. | Testimonio de una Real Cédula, mandando dar un donativo, Madrid. Documento incompleto.                                                                                                    | 29 marzo 1678    | 1      |
+| 372. | Fragmento del expediente en que María de Cárcamo, reclama su dote, como mujer que fue de Diego Gaitán de Padilla, Tegucigalpa. Documento incompleto.                                      | 14 abril 1678    | 2      |
+| 373. | Auto cabeza de proceso contra Benito Gómez, por bigamia, Tegucigalpa. Documento deteriorado.                                                                                        | 15 abril 1678  | 7      |
+| 374. | Demanda que Joaquín Muñoz de Rojas, puso a Alonso Maradiaga, por cuarenta pesos, Tegucigalpa. Documento deteriorado.                                                                 | 23 mayo 1678   | 5      |
+| 375. | Nombramiento de Juez, recaído en el señor Sebastián de los Santos, Partido de Nacaome, San Francisco de Reitoca. Documento incompleto.                                               | 28 mayo 1678   | 1      |
+| 376. | Causa instruida contra Juan de Dios esclavo negro, por rebelde y prófugo de la justicia, Tegucigalpa. Documento deteriorado.                                                         | 5 junio 1678   | 5      |
+| 377. | Demanda pública contra Diego de Aguilera (ex-Alcalde Mayor) por varias deudas hechas a diversos pueblos, Tegucigalpa. Documento incompleto.                                          | 28 junio 1678  | 3      |
+| 378. | Reclamo que hace Ana de Zúñiga, por el depósito hecho en ella, de una mulata que dictó el cura Antonio Suazo y Guzmán, Tegucigalpa. Documento deteriorado.                            | 9 julio 1678   | 2      |
+| 379. | Auto del Alcalde Mayor Fernando Alfonso Salvatierras, sobre el depósito de una esclava llamada Pascualquia, que fue depositada en casa de Ana Zúñiga, Tegucigalpa. Documento deteriorado. | 11 julio 1678  | 1      |
+| 380. | Fragmento de un pleito entre Antonio Denche Durón y Francisco de Segura, Tegucigalpa. Documento deteriorado.                                                                          | 17 julio 1678  | 1      |
+| 381. | Fernando Reinel de Salvatierras, manda prender a Lucas Hernández, por haber ahogado a su mujer en el pueblo de Guarabuqui. Documento deteriorado.                                       | 12 agosto 1678 | 1      |
+| 382. | Testimonio del despacho real, de una lista de tierras, del sitio nombrado "San Juan Bautista" jurisdicción del Real de Minas de Tegucigalpa, Guatemala. Documento deteriorado.           | 31 agosto 1678 | 5      |
+| 383. | Pedimento hecho por Micaela Díaz al Alcalde Mayor, contra Antonio Zamora, por unos bienes, Tegucigalpa. Documento deteriorado.                                                          | 5 octubre 1678 | 2      |
+| 384. | Proceso contra Juan de Izaguirre, por haber hecho tinta añil con indios, Aguasquerique. Documento deteriorado.                                                                           | 25 octubre 1678 | 4      |
+| 385. | Causa contra Juan de Llanos y Valdez, por haber fabricado añil con indios, Aguasquerique. Documento deteriorado.                                                                        | 25 octubre 1678 | 7      |
+| 386. | Información para averiguar la fuga de un negro llamado Juan de Dios, Tegucigalpa. Documento deteriorado.                                                                               | 31 octubre 1678 | 14     |
+| 387. | Proceso contra el Alférez Ambrosio Flores de Vargas, por haber fabricado tinta añil con indios, Goascorán. Documento deteriorado.                                                       | 2 noviembre 1678 | 6      |
+| 388. | Juicio de residencia contra el ex-Alcalde Mayor Diego de Aguilera y Peralta, sus tenientes, Tegucigalpa. Documento deteriorado.                                                         | 15 noviembre 1678 | 3      |
 
 ---
 
