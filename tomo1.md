@@ -393,15 +393,6 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 362. | Proceso contra Marcos de Amador, por amancebamiento con Isabel, india de Ojojona. Tegucigalpa. Documento deteriorado. | 5 noviembre 1677 | 9      |
 | 363. | Orden para que todas las autoridades de la provincia persigan el contrabando de seis cargas de mercaderías, que Enrique Gómez y Andrés Isleño sacaron de Omoa. Documento deteriorado. | 14 noviembre 1677 | 1      |
 | 364. | Criminal contra Patricio del Cerro y Juana Ponce del Cerro, hermanos, por incesto y comunicación ilícita. Tegucigalpa. Documento incompleto. | 14 noviembre 1677 | 35     |
-### Transcripción de los cuadros de las imágenes 57, 58, y 59
-A continuación se transcriben los cuadros iniciando desde el número **365**:
-
----
-
-**Imagen 57**
-
-| No.  | Descripción de los expedientes                                                                                                                                                           | Fecha            | Folios |
-|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|--------|
 | 365. | Antonio Denche Durón, otorga poder general a su esposa Tomasa Ferrufino, Tegucigalpa. Documento deteriorado.                                                                              | 29 noviembre 1677 | 2      |
 | 366. | Ejecución contra Pedro González, por no haber pagado al Juez que midió sus tierras, Tegucigalpa. Documento deteriorado.                                                                   | 25 enero 1678    | 4      |
 | 367. | Pasaje de una demanda de Pedro Martínez, contra Alonso Díaz, por una deuda, Tegucigalpa. Documento deteriorado.                                                                           | 7 marzo 1678     | 2      |
