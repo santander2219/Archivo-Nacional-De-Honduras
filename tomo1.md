@@ -370,6 +370,29 @@ Aquí está la tabla actualizada con los documentos del 12 al 22 correctamente i
 | 340. | Pasajes de una causa judicial contra Gaspar Ventura, para que entregue unos efectos de montar en caballo, en su hijo, Guaíscorán. Documento incompleto. | 22 marzo 1677      | 5      |
 | 341. | Ejecución contra los deudores de Matías de Vallecillo, por su representante Juan Matías de Meneses, Guatemala. Documento deteriorado. | 8 abril 1677       | 2      |
 | 342. | Providencia para que no salga ningún vecino de este Real de Minas de Tegucigalpa hasta que pasen las fiestas Reales de la Coronación de Carlos V. Documento deteriorado. | 17 abril 1677      | 1      |
+| 343. | Auto para que el Capitán Antonio Denche Durón, marche con su compañía el día domingo de pascua, como es costumbre. Tegucigalpa. Documento incompleto. | 17 abril 1677   | 2      |
+| 344. | Ramón de Araque y otros solicitan ser puestos en libertad para cancelar unas deudas. Real de Minas de Tegucigalpa. Documento deteriorado. | 26 mayo 1677    | 1      |
+| 345. | Testimonio de autos de demanda puestos por Franco Folgar, contra el capitán Diego de Aguilera, por deberle cierta cantidad de dinero. Tegucigalpa. | 31 mayo 1677    | 24     |
+| 346. | Denuncio de una mina en el Mineral de San Salvador, por Jorge Montoya. Documento deteriorado.                       | 7 junio 1677     | 3      |
+| 347. | Escritura de fianza otorgada por Agustina Zerón, a favor del Alférez Cibrián de Andino, por una cantidad de pesos. Documento deteriorado. | 11 junio 1677    | 1      |
+|      | **Caja No. 13**                                                                                                   |                  |        |
+| 348. | Petición de Matías Vallecillo, para que Blas Pérez dé recibo de 150, valor de tres cargas de cacao que le dio por su cuenta Sebastián Ochoa. Documento deteriorado. | 14 julio 1677   | 28     |
+| 349. | Juan Lafinz demanda a José de Araujo por quince pesos que le debe. Documento deteriorado.                           | 14 julio 1677    | 1      |
+| 350. | Petición de José de Araujo, preso a pedimento de Matías Vallecillo, por una deuda de 60 pesos, exhibiendo un testimonio de la Real Cédula. Documento incompleto. | 14 julio 1677   | 13     |
+| 351. | Ejecución de Matías Vallecillo contra Gonzalo Rodríguez, por una deuda. Documento deteriorado.                     | 21 julio 1677    | 9      |
+| 352. | Petición hecha por Blas Ordóñez, quejándose de haberle robado una yegua y un burro obrero; ser sospechoso del robo, Cristóbal Zelaya. Documento deteriorado. | 12 agosto 1677  | 1      |
+| 353. | Demanda que José de Araujo pone a Pedro Flores, por prohibirle entrar en una mina que tenían como comunidad en el Cerro de San Salvador. Documento incompleto. | 31 agosto 1677  | 1      |
+| 354. | Causa criminal contra Nicolás de Vargas, por amancebamiento, irreligioso y cuatrero. Tegucigalpa. Documento incompleto. | 6 septiembre 1677 | 2      |
+| 355. | Proceso contra Fabián de Alvarado, por haber elaborado tinta añil con indios. Goascorán. Documento deteriorado.    | 18 septiembre 1677 | 5      |
+| 356. | Causa contra Juan de Izaguirre, por fabricar tinta de añil, empleando indios. Goascorán. Documento deteriorado.    | 22 septiembre 1677 | 5      |
+| 357. | Proceso contra Juan de Llanos y Valdez por haber hecho tinta añil con indios. Goascorán. Documento incompleto.     | 22 septiembre 1677 | 6      |
+| 358. | Causa criminal contra Ambrosio Flores de Vargas, por haber fabricado añil, valiéndose de operarios indios.        | 28 septiembre 1677 | 5      |
+| 359. | Pasaje de un auto de visita y registro de minas, hecho por el maestro de campo, Fernando Alfonso Salvatierra. Documento incompleto. | 30 septiembre 1677 | 1      |
+| 360. | Proceso contra Enrique Gómez y Andrés Isleño, por contrabando de mercaderías inglesas. Documento deteriorado.     | 12 octubre 1677 | 5      |
+| 361. | Proceso contra Francisco Bravo de Arriola, por haber elaborado tinta añil con indios. Choluteca. Documento deteriorado. | 20 octubre 1677 | 7      |
+| 362. | Proceso contra Marcos de Amador, por amancebamiento con Isabel, india de Ojojona. Tegucigalpa. Documento deteriorado. | 5 noviembre 1677 | 9      |
+| 363. | Orden para que todas las autoridades de la provincia persigan el contrabando de seis cargas de mercaderías, que Enrique Gómez y Andrés Isleño sacaron de Omoa. Documento deteriorado. | 14 noviembre 1677 | 1      |
+| 364. | Criminal contra Patricio del Cerro y Juana Ponce del Cerro, hermanos, por incesto y comunicación ilícita. Tegucigalpa. Documento incompleto. | 14 noviembre 1677 | 35     |
 
 ---
 
