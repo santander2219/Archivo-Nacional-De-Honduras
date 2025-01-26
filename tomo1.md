@@ -521,7 +521,7 @@ Tomo I Fondo Colonial
 | 487    | Acusación contra Francisco Blanco, por llevar una mula sin autorización. Tegucigalpa. Documento deteriorado.       | 7 septiembre 1682 | 10  |
 | 488    | Ejecución de deudas de Enrique Gómez, a cargo de Domingo Ruiz Arce. Comayagua. Documento deteriorado.              | 10 septiembre 1682 | 14  |
 | 489    | Testimonio de varios pasajes en la causa criminal contra Manuel Murcia. Documento incompleto.                      | 19 septiembre 1682 | 29  |
-| 490    | Denuncia de una mina llamada "San Marcos", jurisdicción de Lepaterique. Documento incompleto.                      | 28 septiembre 1682 | 1   |
+| 490    | Denuncia de una mina llamada "San Marcos", jurisdicción de Lepaterique por el Alcalde Pedro Benitez y demas autoridades. Documento incompleto.                      | 28 septiembre 1682 | 1   |
 | 491        | Ejecución contra Cristóbal de Chávez, por $600 promovida por Pedro de Osses. Documento deteriorado.                    | 30 septiembre 1682 | 4          |
 | 492        | Demanda que puso Antonio Coello a Diego Fernández Vivas, por una cantidad de dinero que le adeudaba, la mortual de su tío Presbítero Juan Fernández Vivas, a quien heredó el demandado. Documento deteriorado. | 7 octubre 1682    | 7          |
 | 493        | Auto-cabeza de proceso para averiguar cómo perdió Matías (indio) correo que venía de Comayagua a Tegucigalpa, un pliego del Visitador Antonio de Navia Bolaños. Documento incompleto. | 20 octubre 1682   | 1          |
