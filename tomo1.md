@@ -522,6 +522,12 @@ Tomo I Fondo Colonial
 | 488    | Ejecución de deudas de Enrique Gómez, a cargo de Domingo Ruiz Arce. Comayagua. Documento deteriorado.              | 10 septiembre 1682 | 14  |
 | 489    | Testimonio de varios pasajes en la causa criminal contra Manuel Murcia. Documento incompleto.                      | 19 septiembre 1682 | 29  |
 | 490    | Denuncia de una mina llamada "San Marcos", jurisdicción de Lepaterique. Documento incompleto.                      | 28 septiembre 1682 | 1   |
+| 491        | Ejecución contra Cristóbal de Chávez, por $600 promovida por Pedro de Osses. Documento deteriorado.                    | 30 septiembre 1682 | 4          |
+| 492        | Demanda que puso Antonio Coello a Diego Fernández Vivas, por una cantidad de dinero que le adeudaba, la mortual de su tío Presbítero Juan Fernández Vivas, a quien heredó el demandado. Documento deteriorado. | 7 octubre 1682    | 7          |
+| 493        | Auto-cabeza de proceso para averiguar cómo perdió Matías (indio) correo que venía de Comayagua a Tegucigalpa, un pliego del Visitador Antonio de Navia Bolaños. Documento incompleto. | 20 octubre 1682   | 1          |
+| 494        | Providencia dictada por el Provincial de la Santa Hermandad, y Juez de Comisión, para todos los casos y cosas de la justicia, Manuel de Ugarte, mandando a poner a una niña de doce años llamada Jerónima, en casa de Josefa de Zelaya, por no saber la doctrina cristiana. Documento deteriorado. | 24 octubre 1682   | 2          |
+| 495        | Proceso contra Fabián de Alvarado y Magdalena Flores por amancebamiento. Documento deteriorado.                        | 12 noviembre 1682 | 32         |
+| 496        | Diligencias para averiguar la muerte de Manuel de Carmona, que lo mató un tablón dentro de una mina. Documento incompleto. | 5 diciembre 1682 | 6          |
 
 ---
 
