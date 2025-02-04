@@ -566,6 +566,14 @@ Tomo I Fondo Colonial
 | 530      | Peticiones y papeles sueltos de minas, que se han registrado en el cerro de San Antonio de Yesguare. Documento deteriorado.                                                                                   | 10 septiembre 1683 | 19         |
 | 531      | Pedro Martín de Guzmán otorga su poder a Diego de Rivera para un pleito que tiene pendiente contra Franco Lozano, Tegucigalpa. Documento incompleto y deteriorado.                                            | 13 septiembre 1683 | 1          |
 | 532      | Autos criminales contra Gregorio López, indio natural y tributario del pueblo de Ojojona, sobre haber dado muerte a su mujer Juana. Documento deteriorado.                                                    | 7 octubre 1683     | 15         |
+| 533      | Autos hechos de oficio de la Real Justicia contra Francisco Ramón, sobre una herida que dió a Juan Gómez mulato, Tegucigalpa. Documento deteriorado.                                                          | 2 noviembre 1683  | 10         |
+| 534      | Diego Martín denuncia una mina en el cerro de San Antonio de Yesguare. Documento deteriorado.                                                                                                                 | 2 noviembre 1683  | 1          |
+| 535      | Baltazar Martín denuncia la mina que puso por nombre "Santa Inés", sita en el Valle de Yesguare. Documento deteriorado.                                                                                       | 18 noviembre 1683 | 1          |
+| 536      | Juan Díaz denuncia una mina de plomo en el camino para Yesguare, a la que puso por nombre Nuestra Señora del buen suceso, Tegucigalpa. Documento deteriorado.                                                 | 9 diciembre 1683  | 1          |
+| 537      | Denuncio de una mina en San Antonio de Yesguare, nombrado "Las Animas", hecho por Diego de Cárcamo, Tegucigalpa. Documento deteriorado.                                                                       | 20 diciembre 1683 | 2          |
+| 538      | Información sobre haberse degollado un mulato llamado Tomás, Tegucigalpa. Documento deteriorado.                                                                                                              | 19 febrero 1684   | 4          |
+| 539      | Ventura de Córdoba denunció una mina, sita en el Valle de Agalteca, Tegucigalpa. Documento incompleto.                                                                                                        | 28 febrero 1684   | 1          |
+| 540      | Juan Antonio Pimentel, denuncia un solar para edificar una obra pía, Tegucigalpa. Documento incompleto.                                                                                                       | 28 febrero 1684   | 1          |
 
 ---
 
