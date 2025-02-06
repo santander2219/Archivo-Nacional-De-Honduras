@@ -628,6 +628,14 @@ Tomo I Fondo Colonial
 | 601      | Expulsión del mulato Felipe de la Cruz, por vago, so pena de ir al Castillo de San Carlos de Nicaragua, si no sale de su jurisdicción, Tegucigalpa. Documento deteriorado.                  | 10 julio 1687    | 2          |
 | 602      | Carta del Alferez Juan Salvador de Otero, al capitán José Fernández de Córdova, pidiéndole lo emplease en el servicio de armas de su magestad. Documento deteriorado.                       | 21 julio 1687    | 1          |
 | 603      | Proceso contra el indio Juan Ventura, por heridas que dió a Francisco de los Reyes, Tegucigalpa. Documento incompleto y deteriorado.                                                        | 21 julio 1687    | 14         |
+| 604      | Querella de Nicolás Hernández contra Miguel Ramos, indio por haber violado a una india de doces años llamada María, Tegucigalpa.                                                                                                                 | 8 octubre 1687    | 4          |
+| 605      | Querella entre Rafael Elvir y Diego de Águila, por los usos de una acequia y un pedazo de terreno, Tegucigalpa. Documento deteriorado.                                                                                                           | 25 noviembre 1687 | 3          |
+| 606      | Autos ejecutados contra Bartolomé de Borjes, mulato por una deuda a Antonio de Parga, Tegucigalpa. Documento deteriorado.                                                                                                                        | 1 diciembre 1687  | 31         |
+| Caja No. 20   | | | |
+| 607      | Juan de Navas acusa a Juan de Damas, por haberle hecho corrales falso en su hacienda que tiene en Guaimaca, y haber desaparecido de allí,doce vacas, algunas yeguas, caballos mansos y dos bestias mulares, Tegucigalpa. Documento deteriorado.  | 17 diciembre 1687 | 3          |
+| 608      | Inventario de los bienes de Francisco Beltrán, muerto en un ataque a los piratas, Tegucigalpa. Documento deteriorado.                                                                                                                            | 4 enero 1688      | 127        |
+| 609      | Testamento de Juan Lazo de la Vega y diferencias previas en su autorización, Cantarranas. Documento deteriorado.                                                                                                                                 | 12 febrero 1688   | 6          |
+| 610      | Testimonio de la Real Provisión, mandando que visitasen puntualmente los obrajes de hacer añil, sacado en Santiago de Guatemala. Documento incompleto.                                                                                           | 21 febrero 1688   | 7          |
 ---
 
 
