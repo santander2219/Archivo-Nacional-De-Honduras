@@ -764,6 +764,12 @@ Tomo I Fondo Colonial
 | 735 | Causa criminal contra Juan Viera, mulato libre por incendiario. Documento deteriorado.                                                                                                                                                                      | 12 abril 1696     | 12 |
 | 736 | Testamento de Alonso Ortíz, Danlí. Documento deteriorado.                                                                                                                                                                                                   | 24 abril 1696     | 4  | 
 | 737 | Cristóbal Hernández demanda a Juan de Oseguera, por haberle cogido unos caballos, Talanga. Documento deteriorado.                                                                                                                                           | 25 abril 1696     | 5  |
+| 738 | Fray Antonio Montoya hace un reclamo referente a una capellanía fundado por Francisco Lezano, Tegucigalpa. Documento deteriorado.                                                                                                       | 30 abril 1696  | 28 |
+| 739 | Demanda de Marcela Zerón contra Nicolás de Meza, por tres reses de año arriba que le debía, Vallecillo, Talanga. Documento incompleto.                                                                                                  | 13 mayo 1696   | 1  |
+| 740 | Ejecución que contra José Méndez Carrasco trabó Juan de Herrera, como apoderado de María Fernández de Córdova, Zerón de Quiñonez, por un censo y sus réditos corridos sin pagar de mucho tiempo atrás, Talanga. Documento deteriorado.  | 9 junio 1696   | 6  |
+| 741 | Petición hecha por Franco Díaz, a nombre de su suegro José Palma, en la que pide se cancele una deuda que deben Baltazar de Mendoza y Ferrufino, Tegucigalpa. Documento deteriorado.                                                    | 21 julio 1696  | 1  |
+| 742 | Autos criminales hechos de oficio de la Real Justicia, contra José (criollo negro) esclavo de José Escoto, vecino del barrio de Cantarranas, por haber dadpo muerte a Gabriel Catambe esclavo de Alonso Bonete . Documento deteriorado. | 9 agosto 1696  | 19 |
+| 743 | Gregorio Matute orden, se convoque a los vecinos del Valle de San Juan, para hacer un donativo. Documento incompleto.                                                                                                                   | 15 agosto 1696 | 1  |
 ---
 
 
