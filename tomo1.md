@@ -858,6 +858,13 @@ Tomo I Fondo Colonial
 | 829 | Mandato para que no se puedan beneficiar metales, sin hacer uso de los azogues de las Cajas Reales, Tegucigalpa. Documento deteriorado.																		 | 30 agosto 1699     | 2  |
 | 830 | El presbítero Manuel de Uclés cura y vicario de la nueva población de Danlín, manda que Juana Gomez viva con Juan del Valle, su legitimo marido, bajo pena de excomunión, Jamastrán. Documento deteriorado.									 | 14 septiembre 1699 | 11 |
 | 831 | Escritura de venta del sitio de Opalí, otorgada por Francisco y Julián López Lobo, por sí y como curadores de sus hermanos menores a favor de Juan Nuñez, y Domingo Chávez por cien pesos, Danlí. documento deteriorado. 																	         | 14 octubre 1699    | 2  |
+| 832 | Francisco Aranda contra Francisca Sanchez por su terreno, Tegucigalpa. Documento determinado.                                                                      										      | 23 de octubre 1699   | 21    |
+| 833 | Proceso contra Mateo de Torres, vecino de Cantarranas, por haber dado muerte a Sebastiana de Oseguera, San Francisco, Cantarrana, Documento deteriorado.   										              | 7 noviembre 1699     | 29 (30)    |
+| 834 | Expediente de la mortual de Sebastiana de Oseguera, vecina de Cantarranas, San Francisco, San Juan de Cantarranas, Documento determinado.                    											      | 30 noviembre 1699    | 7    |
+| 835 | Proceso contra Bartolomé Ramos, por amancebamiento con Lucia Carballo, Villa de San Francisco. Documento determinado.                                    											      | 9 diciembre 1699     | 6    |
+| 836 | Andrés Izquierdo demanda a Leonardo de Quiroz, por la legitimidad de su mujer María de Funes, Danlí.: Documento incompleto.                           												      | 24 de diciemnbre     | 5    |
+| 837 | Pasajes de una causa judicial contra Agustín García, y Ana Gonzáles por presunto amancebamineto. Documento incompleto y deteriorado.                        											      |                      | 1    |
+| 838 | Pasajes de la diligencias practicadas por el Alcalde Mayor de Tegucigalpa, para averiguar quién habia ocultado unas ordenanzas hechas por el visitador Real Pedro Fraso, para las cajas Reales de esta villa. Documento imcompleto y deteriorado.     |                      |  1   |
 ---
 
 
