@@ -865,6 +865,11 @@ Tomo I Fondo Colonial
 | 836 | Andrés Izquierdo demanda a Leonardo de Quiroz, por la legitimidad de su mujer María de Funes, Danlí.: Documento incompleto.                           												      | 24 de diciemnbre     | 5    |
 | 837 | Pasajes de una causa judicial contra Agustín García, y Ana Gonzáles por presunto amancebamineto. Documento incompleto y deteriorado.                        											      |                      | 1    |
 | 838 | Pasajes de la diligencias practicadas por el Alcalde Mayor de Tegucigalpa, para averiguar quién habia ocultado unas ordenanzas hechas por el visitador Real Pedro Fraso, para las cajas Reales de esta villa. Documento imcompleto y deteriorado.     |                      |  1   |
+| 839    | Caja N°. 25                                                     |               |        |
+| 840    | Orden del oidor Jerónimo Duardo, restaurador del mineral de El Corpús, para que se envien indio trabajadores de los pueblos de Tegucigalpa y Comyaguela, para trabajar en las restauración de las caja real de dicho mineral, El Corpús. Documento deteriorado. | 11 enero 1700  | 1      |
+| 841    | Imposición de una capellanía de trescientos pesos, hecha por Ana de flores de Ojojona, a favor del minorista Urbano Flores, hacienda de Salalica, Tegucigalpa. Documento incompleto.                                                                            | 8 febrero 1700 | 3      |
+| 842    | Orden de la juenta de Guerra presidida por el capitánManuel de Castro, organizanción las compañías de milicianos blancos, pardos y negros en los partidos de Cantarrana y Danlí, Tegucigalpa. Documento deteriorado.                                            | 4 mayo 1700    | 14—13  |
+| 843    | Testimonio del traslado que contiene el Real Despacho de la Real solución de la junta de Real Hacienda, en el se manda sean trasladado los indios a Agalteca, Guatemala, junio 20 1699, traslado sacado en Manto. Documento deteriorado.                        | 14 mayo 1700   | 6      |
 ---
 
 
