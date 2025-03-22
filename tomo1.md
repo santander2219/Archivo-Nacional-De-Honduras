@@ -838,6 +838,26 @@ Tomo I Fondo Colonial
 | 809 | Mortual del capitán Francisco Barahona, Tegucigalpa. Documento deteriorado.                                                                                                                                           | 9 septiembre 1698  | 6  |
 | 810 | Mandamiento de prisión contra Diego Navarro y Manuel de Arguijo, por deudas con Francisco del Valle, Talanga. Documento deteriorado.                                                                                  | 14 septiembre 1698 | 1  |
 | 811 | Diversas fianzas otorgadas por diferentes personas, a favor del capitán y sargento mayor Juan Dávila, para poder ejercer el cargo de contador de las cajas reales de la Provincia de Honduras. Documento deteriorado. | 30 septiembre 1698 | 29 (30)|
+| 812 | Auto contra Franco Agurcia, mulato libre por desobediencia a la Real Justicia, Talanga. Documento deteriorado.                                                                           | 22 octubre 1698  | 1 |
+| 813 | Establecimiento de jicaques en el Valle de Yeguare, Guatemala. Documento deteriorado.                                                                                                    | 29 octubre 1698  | 5 |
+| 814 | Carta de venta por un esclavo, otorgada por Antonio Borjas a favor de Pedro Gramendia, Tegucigalpa. Documento deteriorado.                                                               | 9 diciembre 1698 | 1 |
+| 815 | Diligencias sobre la mortual de Juan de Turcios y María Domínguez, Talanga. Documento deteriorado.                                                                                       | 10 marzo 1699    | 3 |
+| 816 | Autos sobre la mortual de Catalina Puentes, esposa de Franco Viera, Talanga. Documento deteriorado.                                                                                      | 10 marzo 1699    | 2 |
+| 817 | Diligencias seguidas al arreglo de la mortual, de Serafina Turcios, Talanga. Documento deteriorado.                                                                                      | 13 marzo 1699    | 4 |
+| 818 | Autos criminales hechos de oficio de la Real Justicia contra Ignacio de la Cruz mulato libre, sobre desobediencia de la Real Justicia, Cantarranas. Documento deteriorado.               | 15 abril 1699    | 5 |
+| 819 | Mandamiento del Teniente de Cantarranas, para averiguar si habia herederos y deudores del ciudadano Juan Pascual, indio naborio,que falleció sin testar, Talanga. Documento deteriorado. | 27 abril 1699    | 2 |
+| 820 | Juan de Navas se queja de Joaquín, oficial de carpintería, le perdió un trapiche que tenía mercado a Juan de Turcios, Guaimaca. Documento incompleto.														                           | 30 abril 1699 | 2  |
+| 821 | Antonio de Suazo y Guzmán, pide a José Coello su podatario quite a Franco Carrazco 150 pesos, a que está obligado como capellán de las minas del purgatorio, Talanga. Documento incompleto. 												   | 16 mayo 1699  | 2  |
+| 822 | Queja contra Isabel de Burgos por injurias a Francisco de Lagos, Tegucigalpa. Documento deteriorado. 																						           | 20 mayo 1699  | 6  |
+| 823 | Poder otorgado por Juan Franco de Cárcamo, a favor del Alférez Andrés de Grandes, Real de Minas de Tegucigalpa. Documento deteriorado. 															                                   | 29 mayo 1699  | 2  |
+| 824 | Proceso contra José de Erazo, por muerte que dió al indio Alberto Agustín, en la estancia de Liuguare fallo que recayó contra Erazo condenándolo a servir un año en la iglesia de Cantarranas y le fueron vendidos sus servicios por cuatro años, Valle de Talanga. Documento deteriorado. | 2 julio 1699  | 22 |
+| 825 | Testamento y diligencias sobre la mortual de Leonor Rodríguez, hacienda de San Pedro del Arenal. Documento deteriorado.																				           | 23 julio 1699 | 23 |
+| 826 | Decreto mandado dar amparo y posesión del solar situado detrás del convento de la merced, a Teresa de Borjas, constante de treinta y cinco varas de oriente a poniente, y de norte a sur, cuarenta y dos varas, su primitivo dueño Teresa María de Varga. Documento deteriorado. | 5 agosto 1699      | 2  |
+| 827 | Querella de Hermenegildo Díaz, contra Chepe Vasca, Juan Rodríguez Lázaro Díaz, Cristóbal Llanos y Sebastián, Tegucigalpa. Documento incompleto.																         | 11 agosto 1699     | 2  |
+| 828 | El padre Simón Díaz de Viamonte pide que le devuelvan su hija a su madre, y que no le vuelvan a sacar ninguna persona sin causa Justificada, Talanga. Documento completo. 												         | 18 agosto 1699     | 2  |
+| 829 | Mandato para que no se puedan beneficiar metales, sin hacer uso de los azogues de las Cajas Reales, Tegucigalpa. Documento deteriorado.																		 | 30 agosto 1699     | 2  |
+| 830 | El presbítero Manuel de Uclés cura y vicario de la nueva población de Danlín, manda que Juana Gomez viva con Juan del Valle, su legitimo marido, bajo pena de excomunión, Jamastrán. Documento deteriorado.									 | 14 septiembre 1699 | 11 |
+| 831 | Escritura de venta del sitio de Opalí, otorgada por Francisco y Julián López Lobo, por sí y como curadores de sus hermanos menores. 																	         | 14 octubre 1699    | 2  |
 ---
 
 
