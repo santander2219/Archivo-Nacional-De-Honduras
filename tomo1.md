@@ -857,7 +857,7 @@ Tomo I Fondo Colonial
 | 828 | El padre Simón Díaz de Viamonte pide que le devuelvan su hija a su madre, y que no le vuelvan a sacar ninguna persona sin causa Justificada, Talanga. Documento completo. 												         | 18 agosto 1699     | 2  |
 | 829 | Mandato para que no se puedan beneficiar metales, sin hacer uso de los azogues de las Cajas Reales, Tegucigalpa. Documento deteriorado.																		 | 30 agosto 1699     | 2  |
 | 830 | El presbítero Manuel de Uclés cura y vicario de la nueva población de Danlín, manda que Juana Gomez viva con Juan del Valle, su legitimo marido, bajo pena de excomunión, Jamastrán. Documento deteriorado.									 | 14 septiembre 1699 | 11 |
-| 831 | Escritura de venta del sitio de Opalí, otorgada por Francisco y Julián López Lobo, por sí y como curadores de sus hermanos menores. 																	         | 14 octubre 1699    | 2  |
+| 831 | Escritura de venta del sitio de Opalí, otorgada por Francisco y Julián López Lobo, por sí y como curadores de sus hermanos menores a favor de Juan Nuñez, y Domingo Chávez por cien pesos, Danlí. documento deteriorado. 																	         | 14 octubre 1699    | 2  |
 ---
 
 
